@@ -1,0 +1,98 @@
+% !TEX program = xelatex
+% Hermann Bonitz, Index Aristotelicus (Berlin 1870) — 重排本
+% 編譯: latexmk -xelatex main.tex
+\documentclass[10pt,twoside]{article}
+
+\usepackage{fontspec}
+\defaultfontfeatures{Numbers=Lining}      % Bekker 頁碼用等高數字
+\usepackage[serifB, sansB, cjkB]{myfonts}
+\usepackage{mylangs}
+
+% xeCJK 會把這些標點當成 CJK 字元並吃掉其後的空格，改回西文類
+\xeCJKDeclareCharClass{Default}{"2014, "2013, "2018, "2019, "201C, "201D, "00B7, "2026}
+% 希臘文斷字：前後至少各留兩個字母 (babel 預設 1/1)
+\renewcommand*{\ancientgreekhyphenmins}{22}
+
+%% 版面：接近原書比例 (528.96 × 752.4 pt)
+\usepackage[paperwidth=186.6mm, paperheight=265.4mm,
+            top=20mm, bottom=18mm, inner=17mm, outer=15mm,
+            headsep=5mm, headheight=14pt, columnsep=6mm]{geometry}
+\usepackage{multicol}
+\setlength{\columnseprule}{0pt}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+
+%% 本書的語言：拉丁文為主體，希臘文以 \grc 切換 (由 md2tex.py 自動加上)
+\AtBeginDocument{\selectlanguage{classicallatin}}
+
+%*====================================================================
+%*  開關
+%*====================================================================
+\newif\ifshoworigpage \showorigpagetrue   % 標出原書頁碼 (校對用)
+\newif\ifshowunsure   \showunsuretrue     % 醒目標出【不確定】的讀法
+
+%*====================================================================
+%*  詞條格式
+%*====================================================================
+% 疏排 (Sperrung)：原書以字距加寬標示詞條
+\newcommand{\lemma}[1]{{\addfontfeatures{LetterSpace=12}#1}}
+
+% Bekker 頁碼的 a/b 欄
+% 用字型本身的 superior 字形 (Alegreya 有 sups)
+\newcommand{\bekkercol}[1]{{\addfontfeatures{VerticalPosition=Superior}#1}}
+\newcommand{\ba}{\bekkercol{a}}
+\newcommand{\bb}{\bekkercol{b}}
+
+% 書眉：每頁第一個與最後一個詞條
+\NewMarkClass{lemma}
+\newcommand{\lemmamark}[1]{\InsertMark{lemma}{#1}}
+
+\newlength{\entryindent} \setlength{\entryindent}{1em}
+% 詞條：懸掛縮排
+\newcommand{\entry}[1]{%
+  \par\noindent\hangindent=\entryindent\hangafter=1
+  \if\relax\detokenize{#1}\relax\else\lemmamark{#1}\fi}
+% 詞條內分項：首行縮排
+\newcommand{\subpar}{\par\indent}
+
+% 字母分節
+\newcommand{\lettersection}[1]{%
+  \end{multicols}
+  \begin{center}\Large\grc{#1}\end{center}\vspace{0.3\baselineskip}
+  \begin{multicols}{2}}
+
+% 原書頁碼
+\newcommand{\origpage}[1]{%
+  \ifshoworigpage\hbox{}\nobreak
+    \textcolor{gray}{\textsf{\scriptsize[#1]}}\fi}
+% 不確定讀法
+\newcommand{\unsure}[1]{%
+  \ifshowunsure\colorbox{yellow!40}{#1}\else#1\fi}
+
+%*====================================================================
+%*  書眉
+%*====================================================================
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead[C]{%
+  \makebox[\columnwidth][c]{\grc{\FirstMark{lemma}}}%
+  \hspace{\columnsep}%
+  \makebox[\columnwidth][c]{\grc{\LastMark{lemma}}}}
+\fancyhead[LE,RO]{\thepage}
+
+%*====================================================================
+%*  段落
+%*====================================================================
+\setlength{\parindent}{1em}
+\setlength{\parskip}{0pt}
+\emergencystretch=1.5em
+\tolerance=1500
+\hyphenpenalty=50
+\frenchspacing
+
+\begin{document}
+\begin{multicols}{2}
+\input{body/pages}
+\end{multicols}
+\end{document}

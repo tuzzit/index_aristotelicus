@@ -1,0 +1,19 @@
+# LaTeX 編譯產物
+*.aux
+*.log
+*.xdv
+*.fdb_latexmk
+*.fls
+*.pdf
+*.out
+*.toc
+
+# 由 tools/ 重新產生的檔案
+struct/
+body/
+data/entries.json
+data/greek-forms.pkl
+
+# 其他
+__pycache__/
+.claude/

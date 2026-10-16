@@ -1,0 +1,301 @@
+% !TEX program = xelatex
+% Bonitz, Index Aristotelicus — 結構化呈現 (非原書版式)
+% 內容由 tools/md2struct.py 從 src/ 產生 struct/*.tex 與 data/entries.json
+% 編譯: latexmk -xelatex struct.tex
+\documentclass[10.5pt]{article}
+
+\usepackage{fontspec}
+\defaultfontfeatures{Numbers=Lining}
+\usepackage[serifB, sansB, cjkB]{myfonts}
+\usepackage{mylangs}
+\xeCJKDeclareCharClass{Default}{"2014, "2013, "2018, "2019, "201C, "201D, "00B7, "2026, "2192, "223C, "25B8}
+\renewcommand*{\ancientgreekhyphenmins}{22}
+\AtBeginDocument{\selectlanguage{classicallatin}}
+
+%% 螢幕閱讀用版面 (不考慮紙本)
+\usepackage[a4paper, top=18mm, bottom=16mm, left=18mm, right=18mm,
+            headheight=14pt, headsep=6mm]{geometry}
+\usepackage{xcolor}
+\usepackage{multicol}
+\usepackage{array, longtable, booktabs}
+\usepackage[most]{tcolorbox}
+\usepackage{fancyhdr}
+\usepackage[unicode, bookmarksopen, bookmarksopenlevel=1,
+            pdftitle={Index Aristotelicus (Bonitz) — structured},
+            pdfauthor={H. Bonitz}, hidelinks]{hyperref}
+\usepackage{bookmark}
+
+%*====================================================================
+%*  色彩：每一種結構元素一種顏色
+%*====================================================================
+\definecolor{lemmac}{HTML}{8A2B0E}    % 詞條
+\definecolor{subc}{HTML}{A4471F}      % 副詞條 / 行內詞形
+\definecolor{sensec}{HTML}{1F4E79}    % 分項
+\definecolor{latc}{HTML}{4F5B4F}      % Bonitz 的拉丁說明
+\definecolor{citc}{HTML}{1A3A5C}      % 出處
+\definecolor{inhc}{HTML}{9AA5B1}      % 承前省略的部分
+\definecolor{workc}{HTML}{6B7F94}     % 書名
+\definecolor{relc}{HTML}{FFFFFF}      % 關係標記 (字)
+\definecolor{relbg}{HTML}{3F7F6E}     % 關係標記 (底)
+\definecolor{tagc}{HTML}{7A6A3A}      % 其他文法/校勘標記
+\definecolor{rulec}{HTML}{D5DCE3}
+\definecolor{groupc}{HTML}{C9D6E2}
+\definecolor{headbg}{HTML}{F6EFE9}
+\definecolor{glossc}{HTML}{5A4A3A}     % 中譯
+
+%*====================================================================
+%*  開關
+%*====================================================================
+\newif\ifshowwork  \showworktrue     % 書名改變時標出通行書名
+\newif\ifshowunsure \showunsuretrue
+\newif\ifdiogenes  \diogenestrue     % 出處連到本機 Diogenes (localhost:8888)
+
+%*====================================================================
+%*  行內元素
+%*====================================================================
+% 拉丁說明：無襯線、灰綠
+\newfontfamily\symfont{Brill-Roman.ttf}
+\newcommand{\symb}[1]{{\symfont #1}}
+\newcommand{\la}[1]{{\sffamily\color{latc}\lat{#1}}}
+% 關係標記 opp / syn / coni / dist / def / cf / i.e. / i.q. / v
+\newcommand{\rel}[1]{{\setlength{\fboxsep}{1.2pt}%
+  \colorbox{relbg}{\sffamily\footnotesize\color{relc}\strut #1}}}
+% 其他標記 act / pass / veluti / h.v. / sim …
+\newcommand{\mtag}[1]{{\sffamily\itshape\small\color{tagc}#1}}
+% 行內醒目詞形 (原書疏排者)
+\newcommand{\form}[1]{{\bfseries\color{subc}#1}}
+% 詞條本身 (原書以 ~ 代替的地方)
+\newcommand{\lemtilde}{{\color{inhc}\large\symb{∼}}}
+% 交叉參照 (超連結到本冊中的詞條)
+\newcommand{\xref}[2]{\hyperlink{#1}{{\color{subc}→\,\grc{#2}}}}
+\newcommand{\unsure}[1]{\ifshowunsure\colorbox{yellow!40}{#1}\else#1\fi}
+
+%*====================================================================
+%*  出處
+%*  \cit{縮寫}{章}{Bekker 頁}{欄}{行}{迄}
+%*  \ih{…} 承前省略、由程式補足的部分；\wk{…} 通行書名
+%*====================================================================
+\newcommand{\ih}[1]{{\color{inhc}#1}}
+\newcommand{\wk}[1]{\ifshowwork{\mdseries\scriptsize\color{workc}#1\,}\fi}
+% 第 7 引數：Diogenes 連結 (由程式依 TLG 對照產生；空白則不加連結)
+\newfontfamily\supfont{AlegreyaSans-Regular.ttf}[VerticalPosition=Superior]
+\newcommand{\citbody}[6]{\mbox{\sffamily\color{citc}%
+  {\bfseries #1}#2\if\relax\detokenize{#3}\relax\else
+  \if\relax\detokenize{#2}\relax\else.\fi #3\fi
+  {\supfont #4}#5%
+  \if\relax\detokenize{#6}\relax\else–#6\fi}}
+\newcommand{\cit}[7]{%
+  \ifdiogenes\if\relax\detokenize{#7}\relax\citbody{#1}{#2}{#3}{#4}{#5}{#6}%
+    \else\href{#7}{\citbody{#1}{#2}{#3}{#4}{#5}{#6}}\fi
+  \else\citbody{#1}{#2}{#3}{#4}{#5}{#6}\fi}
+\newcommand{\citsep}{\hspace{0.55em plus 0.3em minus 0.1em}\allowbreak}
+\newcommand{\cq}[1]{\,{\sffamily\scriptsize\itshape\color{tagc}#1}}
+\newcommand{\cnote}[1]{\,{\small\color{latc}(\ignorespaces#1\unskip)}}
+\newcommand{\cpre}[1]{\mtag{#1}\hspace{0.35em}}
+% 書名縮寫與 Bekker 頁碼不合、由程式依頁碼推定書名者
+\newcommand{\cguess}{\textsuperscript{\sffamily\color{tagc}?}}
+% 指向 Bonitz 本書他頁 (p 48a31)
+\newcommand{\bref}[2]{\hyperlink{#1}{{\sffamily\color{subc}#2}}}
+% 簡短中譯 (src/glosses.tsv)
+\newcommand{\gloss}[1]{\if\relax\detokenize{#1}\relax\else{\color{glossc}#1}\fi}
+
+%*====================================================================
+%*  區塊
+%*====================================================================
+% 一則用例：左 = 引文與說明，右 = 出處
+\newlength{\attL}\newlength{\attR}
+\newcommand{\attest}[2]{%
+  \par\noindent
+  \setlength{\attL}{0.56\linewidth}\setlength{\attR}{\dimexpr\linewidth-\attL-1.2em\relax}%
+  \if\relax\detokenize{#2}\relax
+    \parbox[t]{\linewidth}{\raggedright\strut#1\strut}%
+  \else
+    \parbox[t]{\attL}{\raggedright\hangindent=0.8em\strut#1\strut}%
+    \hspace{1.2em}%
+    \parbox[t]{\attR}{\raggedright\small\strut#2\strut}%
+  \fi
+  \par\vspace{2.5pt}}
+
+% 一組用例 (原書以 — 分隔)
+\newtcolorbox{usegroup}{enhanced, breakable, frame hidden, colback=white,
+  borderline west={1.6pt}{0pt}{groupc}, left=7pt, right=0pt, top=1pt, bottom=0pt,
+  boxsep=0pt, before skip=3pt, after skip=3pt, sharp corners}
+
+% 分項：1. notio
+\newcommand{\sense}[3]{%
+  \par\vspace{6pt}\noindent
+  {\color{sensec}\sffamily\bfseries\large #1}\hspace{0.5em}%
+  \if\relax\detokenize{#3}\relax\else{\color{black}\large #3}\hspace{0.5em}\fi
+  {\color{sensec}\sffamily\itshape #2}%
+  \par\nopagebreak\vspace{1pt}}
+
+% 副詞條 (同一詞條下的衍生詞、副詞等)
+\newcommand{\sublemma}[2]{%
+  \par\vspace{6pt}\noindent
+  {\color{subc}{\small ▶}\ \large\bfseries\grc{#1}}%
+  \if\relax\detokenize{#2}\relax\else\quad\gloss{#2}\fi
+  \par\nopagebreak\vspace{1pt}}
+
+% 詞條
+\newcounter{entryno}
+\newenvironment{entry}[4]{%
+  \stepcounter{entryno}%
+  \par\vspace{10pt plus 4pt}\noindent
+  \hypertarget{#1}{}\bookmark[level=1, dest=#1]{#2}%
+  \markright{#2}%
+  \begin{tcolorbox}[enhanced, frame hidden, colback=headbg, sharp corners,
+      left=6pt, right=6pt, top=3pt, bottom=3pt, boxsep=0pt, before skip=0pt, after skip=4pt]
+    {\color{lemmac}\LARGE\bfseries\grc{#2}}\hfill
+    {\sffamily\footnotesize\color{workc}#1\quad Bonitz p.\,#3}%
+    \if\relax\detokenize{#4}\relax\else\par\vspace{1pt}\gloss{#4}\fi
+  \end{tcolorbox}\nopagebreak}{\par}
+
+% 只有參照的詞條 (ἀγαμένως v. ἄγασθαι)
+\newcommand{\xentry}[5]{%
+  \par\vspace{8pt}\noindent
+  \hypertarget{#1}{}\bookmark[level=1, dest=#1]{#2}%
+  {\color{lemmac}\Large\bfseries\grc{#2}}\quad #4\quad\gloss{#5}\hfill
+  {\sffamily\footnotesize\color{workc}#1\quad Bonitz p.\,#3}\par}
+
+% 字母分節
+\newcommand{\lettersection}[1]{%
+  \clearpage
+  \phantomsection\bookmark[level=0, dest=letter-#1]{#1}\hypertarget{letter-#1}{}%
+  \begin{center}{\fontsize{40}{44}\selectfont\color{lemmac}\grc{#1}}\end{center}\vspace{4pt}}
+
+% 補遺
+\newcommand{\addendasection}{%
+  \clearpage
+  \phantomsection\bookmark[level=0, dest=addenda]{Addenda et Corrigenda}\hypertarget{addenda}{}%
+  \begin{center}{\fontsize{28}{32}\selectfont\sffamily\color{lemmac}ADDENDA ET CORRIGENDA}\end{center}\vspace{4pt}}
+
+%*====================================================================
+%*  詞條索引 / 縮寫表
+%*====================================================================
+\newcommand{\idxitem}[3]{\noindent\hyperlink{#1}{\grc{#2}}\dotfill{\sffamily\footnotesize\color{workc}#3}\par}
+\newcommand{\siglumrow}[5]{{\sffamily\bfseries\color{citc}#1} & \grc{#2} & {\sffamily #3} & {\sffamily\small #4}\\}
+
+%*====================================================================
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.3pt}
+\fancyhead[L]{\sffamily\small\color{lemmac}\grc{\rightmark}}
+\fancyhead[R]{\sffamily\small\color{workc}Index Aristotelicus\quad\thepage}
+\setlength{\parindent}{0pt}
+\emergencystretch=2em
+\frenchspacing
+\hyphenpenalty=200
+
+\begin{document}
+
+\begin{center}
+{\sffamily\Large\color{lemmac}INDEX ARISTOTELICUS}\\[2pt]
+{\sffamily\color{workc}H. Bonitz, Berlin 1870 \quad·\quad 結構化呈現}
+\end{center}
+
+\section*{\sffamily 閱讀說明}
+\bookmark[level=0, dest=legend]{閱讀說明}\hypertarget{legend}{}
+\begin{tcolorbox}[enhanced, colback=white, colframe=rulec, sharp corners, boxrule=0.4pt]
+\begin{usegroup}
+\attest{\grc{ἀγαθὸν ἀνθρώπινόν τι} \rel{opp} \grc{θεῶν} \la{(Bonitz 的說明)}}%
+       {\cit{\wk{EN}Ηα}{6}{1098}{a}{16}{}{}\citsep\cit{\ih{Ηα}}{1}{1094}{b}{7}{}{}\citsep\cit{\ih{Η}ε}{7}{1131}{b}{23}{}{}}
+\end{usegroup}
+\small
+\renewcommand{\arraystretch}{1.35}
+\begin{tabular}{@{}>{\raggedright\arraybackslash\leavevmode}p{0.30\linewidth}>{\raggedright\arraybackslash}p{0.64\linewidth}@{}}
+{\color{lemmac}\bfseries\grc{ἀγαθός}} & 詞條：淡底色標題列，右側為編號與原書頁碼 \\
+\gloss{善的、好的} & 簡短中譯 (僅供快速辨識；可在 \texttt{src/glosses.tsv} 修改後重編) \\
+{\color{sensec}\sffamily\bfseries 1}\ {\color{sensec}\sffamily\itshape notio} & 原書的分項 (1. 2. 3.) \\
+{\color{subc}{\small ▶}\ \bfseries\grc{ἀγαπητός}} & 同一詞條下的衍生詞、副詞 (原書以 — 接排的疏排詞) \\
+左側豎線區塊 & 原書以 — 分隔的一組用例 \\
+每一列 & 一則用例：左為亞里斯多德原文片段 (襯線) 與 Bonitz 的拉丁說明 (\la{無襯線})；右為出處 \\
+\rel{opp} \rel{syn} \rel{coni} \rel{dist} \rel{def} \rel{cf} & 語義關係標記 \\
+\mtag{act} \mtag{pass} \mtag{veluti} \mtag{sim} & 文法、校勘及其他標記 \\
+\cit{\wk{EN}Ηα}{1}{1094}{a}{3}{}{} & 出處：縮寫＋章．Bekker 頁、欄、行；小字為通行書名 (書名改變時才標) \\
+\cit{\ih{Η}ε}{7}{1131}{b}{23}{}{} & 灰色部分為原書承前省略、由程式依 Bekker 頁碼補足 \\
+\cit{Π}{3}{1278}{b}{8}{}{}\cguess & 右上 ? ：原書縮寫與 Bekker 頁碼不合 (多為 OCR 誤讀)，書名依頁碼推定 \\
+\bref{legend}{p.\,48\textsuperscript{a}31} & Bonitz 本書他處，可點擊 \\
+{\color{inhc}\large\symb{∼}} & 原文片段即詞條本身 (原書只列出處) \\
+\xref{legend}{ἄγασθαι} & 交叉參照，可點擊 \\
+{\sffamily\color{citc}出處本身} & \ifdiogenes 點擊即在本機 Diogenes 開啟該處原文 (MM、Pl.、Rh.Al.、殘篇不在對照表內，無連結)\else —\fi \\
+\end{tabular}
+
+\medskip
+\subsection*{\sffamily\normalsize 標記說明}
+\renewcommand{\arraystretch}{1.2}
+\newcommand{\tagrow}[3]{#1 & {\sffamily\itshape\color{latc}#2} & #3\\}
+\begin{multicols}{2}\raggedcolumns
+\textbf{\sffamily 語義關係}\par\smallskip
+\begin{tabular}{@{}l l l@{}}
+\tagrow{\rel{opp}}{opponitur}{與…相對}
+\tagrow{\rel{syn}}{synonymum}{同義、並列為同義}
+\tagrow{\rel{coni}}{coniungitur}{與…連用}
+\tagrow{\rel{dist}}{distinguitur}{與…區別}
+\tagrow{\rel{def}}{definitur}{定義}
+\tagrow{\rel{cf}}{confer}{參見}
+\tagrow{\rel{i.e.}}{id est}{即}
+\tagrow{\rel{i.q.}}{idem quod}{同於}
+\tagrow{\rel{v}}{vide}{見}
+\end{tabular}
+
+\medskip
+\textbf{\sffamily 文法與用法}\par\smallskip
+\begin{tabular}{@{}l l l@{}}
+\tagrow{\mtag{act}}{activum}{主動義}
+\tagrow{\mtag{pass}}{passivum}{被動義}
+\tagrow{\mtag{absol}}{absolute}{獨立用法 (無補語)}
+\tagrow{\mtag{intr}}{intransitive}{不及物}
+\tagrow{\mtag{fut}}{futurum}{未來式}
+\tagrow{\mtag{c.inf.}}{cum infinitivo}{接不定式 (c.gen. 等類推)}
+\tagrow{\mtag{sc}}{scilicet}{意即 (補足省略)}
+\tagrow{\mtag{veluti}}{veluti}{例如}
+\tagrow{\mtag{vel}}{vel}{或}
+\tagrow{\mtag{proprie}}{proprie}{本義}
+\tagrow{\mtag{metaph}}{metaphorice}{轉義}
+\tagrow{\mtag{etymol}}{etymologia}{字源}
+\tagrow{\mtag{descr}}{describitur}{有所描述}
+\end{tabular}
+
+\columnbreak
+\textbf{\sffamily 出處與校勘}\par\smallskip
+\begin{tabular}{@{}l l l@{}}
+\tagrow{\mtag{sim}}{similia}{及類似處}
+\tagrow{\mtag{al}}{alibi}{他處亦見}
+\tagrow{\mtag{sqq}}{sequentia}{及以下數行}
+\tagrow{\mtag{h.v.}}{hoc verbum}{本詞條}
+\tagrow{\mtag{s.h.v.}}{sub hoc verbo}{見該詞條下}
+\tagrow{\mtag{v.s.h.v.}}{vide sub hoc verbo}{參見該詞條下}
+\tagrow{\mtag{v.l.}}{varia lectio}{異文}
+\tagrow{\mtag{fort}}{fortasse}{或許}
+\tagrow{\mtag{coll}}{collato}{比對}
+\tagrow{\mtag{ci}}{coniecit}{(某人) 校勘推測}
+\tagrow{\mtag{om}}{omisit}{(某抄本/版本) 闕}
+\tagrow{\mtag{resp}}{respicit}{指涉、呼應}
+\tagrow{\mtag{ad h.l.}}{ad hunc locum}{於此處的注解}
+\end{tabular}
+
+\medskip
+\textbf{\sffamily 學者與版本}\par\smallskip
+\begin{tabular}{@{}l l l@{}}
+\tagrow{\mtag{Bk}}{I. Bekker}{柏林版編者 (Bk² Bk³ 指其後版)}
+\tagrow{\mtag{Bz}}{H. Bonitz}{}
+\tagrow{\mtag{Wz}}{Th. Waitz}{}
+\tagrow{\mtag{Fr}}{A. Th. H. Fritzsche}{}
+\tagrow{\mtag{Vhl}}{J. Vahlen}{}
+\tagrow{\mtag{Spgl}}{L. Spengel}{}
+\tagrow{\mtag{Sus}}{F. Susemihl}{}
+\tagrow{\mtag{Sylb}}{F. Sylburg}{}
+\end{tabular}
+\end{multicols}
+\end{tcolorbox}
+
+\clearpage
+\section*{\sffamily 書名縮寫}
+\bookmark[level=0, dest=sigla]{書名縮寫}\hypertarget{sigla}{}
+{\small
+\input{struct/sigla}}
+
+
+\input{struct/entries}
+
+\end{document}
