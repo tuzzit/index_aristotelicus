@@ -92,11 +92,20 @@ def join_sigla(t: str) -> str:
     return re.sub(r"(?<![\w\u0370-\u1fff])(f|[Α-Ωα-ω]{1,4}) (\d+(?:\.\d+[ᵃᵇ]|[ᵃᵇ]))", rep, t)
 
 
+# (OCR 誤讀, 正確縮寫, Bekker 頁碼範圍)：誤讀縮寫直接接章號、且頁碼落在正確書卷範圍內才改
+RANGE_FIXES = [
+    ("Ζμ", "Ζιι", 605, 638),   # HA ι 卷 (Ζιι) 被讀成 Ζμ；PA (Ζμ) 必帶卷號字母
+    ("πο", "πδ", 876, 880),    # Probl. IV (πδ) 被讀成 Poet. (πο, 1447–1462)
+    ("Ζι", "Ζιι", 605, 638),   # HA ι 卷漏掉一個 ι (Ζι3.610ᵇ29)；HA 引用必帶卷號字母
+]
+
+
 def fix_zii(t: str) -> str:
-    """Ζμ1.608ᵃ33 → Ζιι1.608ᵃ33：HA 第 ι 卷 (Ζιι) 常被 OCR 讀成 Ζμ。
-    PA (Ζμ) 必帶卷號字母，Ζμ 直接接數字且頁碼落在 HA ι (605–638) 才改。"""
-    return re.sub(r"Ζμ(?=(\d+)\.(\d+)[ᵃᵇ])",
-                  lambda m: "Ζιι" if 605 <= int(m.group(2)) <= 638 else m.group(0), t)
+    """Ζμ1.608ᵃ33 → Ζιι1.608ᵃ33、πο26.879ᵇ6 → πδ26.879ᵇ6 (見 RANGE_FIXES)"""
+    for bad, good, lo, hi in RANGE_FIXES:
+        t = re.sub(r"(?<![\wͰ-῿])" + bad + r"(?=(\d+)\.(\d+)[ᵃᵇ])",
+                   lambda m: good if lo <= int(m.group(2)) <= hi else m.group(0), t)
+    return t
 
 
 def normalize(t: str) -> str:
@@ -210,7 +219,17 @@ ROUGH_OU = re.compile(r"^ου(?:τ(?!ε)|σ?$|νεκα|περ)")       # οὗτ
 OU_SHORT = {"τῦ": "τοῦ", "ὑκ": "οὐκ", "ὗ": "οὗ", "ὕτως": "οὕτως", "ὑδὲ": "οὐδὲ", "ὑδέ": "οὐδέ"}
 
 
+def fix_bare_ou(t):
+    """缺氣息符的獨立 ου/ουκ/ουχ (ȣ̓ 的符號遺失)：→ οὐ；ου ἂν、κεῖται ου ἡ、ἐξ ου 為關係詞 οὗ"""
+    B, A = r"(?<![\wͰ-Ͽἀ-῿])", r"(?![\wͰ-Ͽἀ-῿])"
+    t = re.sub(B + r"ου(?= ἂν)", "οὗ", t)
+    t = t.replace("κεῖται ου ἡ καρδία", "κεῖται οὗ ἡ καρδία").replace("ἐξ ου ὄφεως", "ἐξ οὗ ὄφεως")
+    t = re.sub(B + r"ου([κχ]?)" + A, r"οὐ\1", t)
+    return t
+
+
 def fix_ou(t):
+    t = fix_bare_ou(t)
     t = re.sub(r"(?<![\u0370-\u03ff\u1f00-\u1fff])(" + "|".join(OU_SHORT) + r")(?![\u0370-\u03ff\u1f00-\u1fff])",
                lambda m: OU_SHORT[m.group(1)], t)
     return re.sub(r"[\u0370-\u03ff\u1f00-\u1fff]+", lambda m: fix_ou_word(m.group(0)), t)
