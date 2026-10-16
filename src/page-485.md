@@ -26,7 +26,7 @@ habent Mammalia, renibus carent Aves et Pisces Ζιβ16.506ᵇ25 Aub. Ζμγ9.67
 
 **νὴ Δία** Πγ10.1281ᵃ16, ᵇ18.
 
-**νηδύς** (Aeschyl fr 297, 6) Ζμ49B.633ᵃ24.
+**νηδύς** (Aeschyl fr 297, 6) Ζιι49B.633ᵃ24.
 
 **νηκτὸν** ζῷον, dist χερσαῖον, ἀέριον κ6.398ᵇ31 (v l νηκτικόν, cf Did praef p XIII).
 

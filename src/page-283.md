@@ -60,7 +60,7 @@
 
 **ἐποπτῆρες** κ6.398ᵃ31.
 
-**ἐπόπτην ἔποπα** (Aeschyl fr 297) Ζμ49B.633ᵃ19.
+**ἐπόπτην ἔποπα** (Aeschyl fr 297) Ζιι49B.633ᵃ19.
 
 **ἐπορούειν** (Hom fort resp Υ 164, cf Ὅμηρος extr) Ργ4.1406ᵇ21.
 
@@ -76,7 +76,7 @@
 
 **ἐποχεύειν.** τὰ ὑπηνέμια γίνεται γόνιμα, ἐὰν ἐν τινι καιρῷ τὸ ἄρρεν ἐποχεύσῃ Ζγβ5.741ᵃ31.
 
-**ἔποψ.** refertur inter τὰ ἄγρια Ζιι15.616ᵇ2, τὰ ὄρεια Ζια1.488ᵇ3. πετραῖος ὄρνις (Aeschyl fr 297) Ζμ49B.633ᵃ19, 21, ἐν τοῖς ὄρεσι καὶ τῇ ὕλῃ κατοικεῖ Ζιι11.615ᵃ15. μεταβάλλει τὸ χρῶμα καὶ τὴν ἰδέαν Ζμ49B.633ᵃ17. 15.617ᵃ2. de nido Ζιζ1.559ᵃ8. ι15.616ᵇ35. cf Troschel Archiv 1852 I 8 sq. ad upupam pertinent, quae librariorum negligentia in descr τοῦ μελαγκορύφου Ζιι15.616ᵇ9 legimus: ἴδιον τούτῳ παρὰ τοὺς ἄλλους ὄρνιθας τὸ μὴ ἔχειν τῆς γλώττης τὸ ὀξύ cf Gloger Naturgesch der Vögel Europas I 469; Giebel Zeitschr f d gesammt Naturwiss X 236 sq; Su 116, 57. Upupa epops S II 109; K 413; KaZι 16, 65; AZι I 91, 32; Lnd 46.
+**ἔποψ.** refertur inter τὰ ἄγρια Ζιι15.616ᵇ2, τὰ ὄρεια Ζια1.488ᵇ3. πετραῖος ὄρνις (Aeschyl fr 297) Ζιι49B.633ᵃ19, 21, ἐν τοῖς ὄρεσι καὶ τῇ ὕλῃ κατοικεῖ Ζιι11.615ᵃ15. μεταβάλλει τὸ χρῶμα καὶ τὴν ἰδέαν Ζιι49B.633ᵃ17. 15.617ᵃ2. de nido Ζιζ1.559ᵃ8. ι15.616ᵇ35. cf Troschel Archiv 1852 I 8 sq. ad upupam pertinent, quae librariorum negligentia in descr τοῦ μελαγκορύφου Ζιι15.616ᵇ9 legimus: ἴδιον τούτῳ παρὰ τοὺς ἄλλους ὄρνιθας τὸ μὴ ἔχειν τῆς γλώττης τὸ ὀξύ cf Gloger Naturgesch der Vögel Europas I 469; Giebel Zeitschr f d gesammt Naturwiss X 236 sq; Su 116, 57. Upupa epops S II 109; K 413; KaZι 16, 65; AZι I 91, 32; Lnd 46.
 
 **ἑπτά** Πε2.1302ᵃ37. ἑπτὰ φωνήεντα κτλ (numeri septenarii vis apud Pythagoreos) Μν6.1093ᵃ13. οἱ ἑπτὰ ἐπὶ Θήβας f594.1574ᵇ35.
 

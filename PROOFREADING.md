@@ -27,11 +27,12 @@
 <!-- done -->
 page-003 page-004 page-005 page-006 page-007 page-008 page-009 page-010 page-011 page-012
 page-013 page-014 page-015 page-016 page-017
+page-018 page-019 page-020 page-021 page-022
 <!-- /done -->
 
 ## 下一批
 
-page-018 起 (建議每批 5 頁)
+page-023 起 (每批 10 頁，每 5 頁 commit 一次)
 
 ## 系統性錯誤 (校對時特別注意)
 

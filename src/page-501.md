@@ -8,7 +8,7 @@
 
 **Ὀιλεύς.** Αἴας ὁ Ὀιλέως f596.1576ᵃ1.
 
-**οἰνάνθη.** 1. avis. πότε ἀφανίζεται Ζμ49B.633ᵃ15. (vitiflora Gazae, ynanthem Thomae, hasabym Alberto. Saxicola oenanthe Belon de la nat des oiseaux VII 12, Gesner in oenanthe, Brisson ornith III 449, Ray synops av 75. fort parra Plinii C II 550. S II 219. in incert rel Su 159, 154. Cr. AZι I 102, 78.) — 2. planta. βοστρύχια οἰνάνθης Ζιε18.549ᵇ33. (fort Paronychia serpillifolia Dec Fraas 108.)
+**οἰνάνθη.** 1. avis. πότε ἀφανίζεται Ζιι49B.633ᵃ15. (vitiflora Gazae, ynanthem Thomae, hasabym Alberto. Saxicola oenanthe Belon de la nat des oiseaux VII 12, Gesner in oenanthe, Brisson ornith III 449, Ray synops av 75. fort parra Plinii C II 550. S II 219. in incert rel Su 159, 154. Cr. AZι I 102, 78.) — 2. planta. βοστρύχια οἰνάνθης Ζιε18.549ᵇ33. (fort Paronychia serpillifolia Dec Fraas 108.)
 
 **Οἰναρέα** πόλις ἐν Τυρρηνίᾳ θ94.837ᵇ32.
 

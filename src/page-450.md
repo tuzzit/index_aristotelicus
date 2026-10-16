@@ -26,7 +26,7 @@
 
 **μείωσις**, opp αὔξησις. ἡ αὔξησίς ἐστι τοῦ ἐνυπάρχοντος (ὑπάρχοντος cod E) μεγέθους ἐπίδοσις, ἡ δὲ φθίσις μείωσις Γα5.320ᵇ31. Κ14.15ᵃ14, ᵇ3.
 
-**μελαγκόρυφος**, refertur inter τὰ σκωληκοφάγα Ζιθ3.592ᵇ22. victus, nidus, ova, lingua Ζιι15.616ᵇ4-9. αἱ συκαλίδες καὶ οἱ μελαγκόρυφοι μεταβάλλουσιν εἰς ἀλλήλους Ζι49B.632ᵇ31. (atricapilla Gazae, atriceps Scalig, tête-noire C II 795. S II 247. Parus ater vel Motacilla atricapilla St. Cr. Parus palustris et Muscicapa atricapilla Su 115, 57. Parus palustris AZι I 102, 74, cf Lnd 66.)
+**μελαγκόρυφος**, refertur inter τὰ σκωληκοφάγα Ζιθ3.592ᵇ22. victus, nidus, ova, lingua Ζιι15.616ᵇ4-9. αἱ συκαλίδες καὶ οἱ μελαγκόρυφοι μεταβάλλουσιν εἰς ἀλλήλους Ζιι49B.632ᵇ31. (atricapilla Gazae, atriceps Scalig, tête-noire C II 795. S II 247. Parus ater vel Motacilla atricapilla St. Cr. Parus palustris et Muscicapa atricapilla Su 115, 57. Parus palustris AZι I 102, 74, cf Lnd 66.)
 
 **Μελάγκραιρα** (Σίβυλλα) θ95.838ᵃ9.
 

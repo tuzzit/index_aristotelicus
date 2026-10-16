@@ -103,7 +103,7 @@ RANGE_FIXES = [
 def fix_zii(t: str) -> str:
     """Ζμ1.608ᵃ33 → Ζιι1.608ᵃ33、πο26.879ᵇ6 → πδ26.879ᵇ6 (見 RANGE_FIXES)"""
     for bad, good, lo, hi in RANGE_FIXES:
-        t = re.sub(r"(?<![\wͰ-῿])" + bad + r"(?=(\d+)\.(\d+)[ᵃᵇ])",
+        t = re.sub(r"(?<![\wͰ-῿])" + bad + r"(?=(\d+B?)\.(\d+)[ᵃᵇ])",
                    lambda m: good if lo <= int(m.group(2)) <= hi else m.group(0), t)
     return t
 
