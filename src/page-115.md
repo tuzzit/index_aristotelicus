@@ -44,7 +44,7 @@
 
 **ἀσπάζεσθαι.** διὰ τὸ ἀσπάζεσθαι ἐδόκει συνεῖναι τῷ μειρακίῳ Ρβ23.1400ᵃ25.
 
-**ἀσπάλαθος** πιβ33.906ᵇ11. (Genista acanthoclada DC.)
+**ἀσπάλαθος** πιβ3.906ᵇ11. (Genista acanthoclada DC.)
 
 **ἀσπάλαξ,** ζῳοτόκος, ὀφθαλμοὺς ἐν τῷ φανερῷ οὐκ ἔχει, τυφλὸς κατὰ τὸ γένος Ζια9.491ᵇ28. δ8.533ᵃ3. Μδ22.1022ᵇ26. φαίνεται καὶ ἡ σπάλαξ (ἀσπάλαξ Torstrik) ὑπὸ τὸ δέρμα ἔχουσα ὀφθαλμούς ψγ1.425ᵃ11. ἐν Αἰτωλοῖς φασὶν ὁρᾶν τὰς ἀσπάλακας ἀμυδρῶς καὶ οὐδὲ σιτεῖσθαι γῆν ἀλλ' ἀκρίδας θ176.847ᵇ3. ἐν τῇ Βοιωτίᾳ ἀσπάλακες περὶ τὸν Ὀρχομενὸν πολλοὶ γίνονται, ἐν τῇ Λεβαδιακῇ γειτνιώσῃ οὐκ εἰσίν Ζιθ28.605ᵇ31. cf θ124.842ᵇ3. (talpa vulgaris C St Cr K, aliud significari genus, quod in Syria repertum descripsit Olivier et cum Aristotelico comparavit, nomine graeco appellatum (i e spalax typhlus), existimat S I 234, cf AZι I 64 n 6, hanc opinionem refutant et talpam caecam esse iudicant Ka Ζι14 n 53 Su p 58 n 5.)
 

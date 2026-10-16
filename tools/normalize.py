@@ -100,6 +100,16 @@ RANGE_FIXES = [
 ]
 
 
+# β 的尾巴常被 OCR 讀成多一個 3 (Ηβ37.1107 → Ηβ7.1107)。這些書的 β 卷都不到 30 章，
+# 所以 β3X 必為誤讀；Problemata β (πβ) 有 40 多章，不列入。
+BETA3 = ["Ζγβ", "Ζμβ", "Ζιβ", "φτβ", "ημβ", "ηεβ", "πκβ", "πιβ", "πλβ",
+         "Πβ", "Ηβ", "μβ", "ψβ", "Φβ", "Ρβ", "Μβ", "τβ", "Οβ", "Αβ"]
+
+
+def fix_beta3(t: str) -> str:
+    return re.sub(r"(?<![\w\u0370-\u1fff])(" + "|".join(BETA3) + r")3(\d)(?=\.\d)", r"\1\2", t)
+
+
 def fix_zii(t: str) -> str:
     """Ζμ1.608ᵃ33 → Ζιι1.608ᵃ33、πο26.879ᵇ6 → πδ26.879ᵇ6 (見 RANGE_FIXES)"""
     for bad, good, lo, hi in RANGE_FIXES:
@@ -134,6 +144,7 @@ def normalize(t: str) -> str:
     t = re.sub(r"(\d)sqq", r"\1 sqq", t)
     t = greek_sigla(t)                       # 空格合併後再做一次
     t = fix_zii(t)
+    t = fix_beta3(t)
     # 現代動物學注釋 (Karsch, Aubert–Wimmer)，不是亞氏書名：改回拉丁字母以免被當出處
     t = re.sub(r"(?<![\w\u0370-\u1fff])Κα\s?Ζ([ιμγ])\s?", r"KaZ\1 ", t)
     t = re.sub(r"(?<![\w\u0370-\u1fff])ΑΖ([ιμγ])\s?", r"AZ\1 ", t)
