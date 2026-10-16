@@ -7,13 +7,15 @@ pages_out/page-NNN.md   (OCR 原稿，不改動)
    │  python3 tools/normalize.py 13-22      機械正規化 (不覆蓋已存在的檔案, -f 強制)
    ▼
 src/page-NNN.md         校對底稿 ← 人工/對照圖檔校對都改這裡
-   │  python3 tools/md2tex.py 3-22         轉 LaTeX (body/*.tex 為產物, 勿手改)
+   │  python3 tools/md2struct.py 3-878     轉結構化資料 (data/entries.json, struct/*.tex 為產物)
    ▼
-body/page-NNN.tex + body/pages.tex
-   │  latexmk -xelatex main.tex
+struct/*.tex
+   │  latexmk -xelatex struct.tex
    ▼
-main.pdf
+struct.pdf
 ```
+
+校對進度與工作方式見 `PROOFREADING.md`。舊版仿原書版式 (main.tex, md2tex.py, body/) 已封存於 `_archive_main/`。
 
 原書頁碼 = 檔案頁碼 − 2 (page-003 = p. 1)。
 

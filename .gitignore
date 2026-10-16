@@ -17,3 +17,4 @@ data/greek-forms.pkl
 # 其他
 __pycache__/
 .claude/
+_archive_main/body/
