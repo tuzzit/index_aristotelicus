@@ -8,7 +8,7 @@
 
 **σφύρα.** ἡ σφύρα καὶ ὁ ἄκμων Ζγε8.789ᵇ11.
 
-**σφύραινα** (vl φύραινα) refertur inter τοὺς ἀγελαίους Ζμ2.610ᵇ5. (sudis Plinio, firena vers Thomae, malleolus Gazae, sphyrena Scalig. sphyrene C II 781. cf Rondelet et Belon ap Gesn s v, Artedi syn pisc 112. Esox sphyraena Cr. K 950, 9. fort Sphyraena vulgaris Cuv III 326. AZι I 140, 68, et syn κέστρα Atheniensibus.)
+**σφύραινα** (vl φύραινα) refertur inter τοὺς ἀγελαίους Ζιι2.610ᵇ5. (sudis Plinio, firena vers Thomae, malleolus Gazae, sphyrena Scalig. sphyrene C II 781. cf Rondelet et Belon ap Gesn s v, Artedi syn pisc 112. Esox sphyraena Cr. K 950, 9. fort Sphyraena vulgaris Cuv III 326. AZι I 140, 68, et syn κέστρα Atheniensibus.)
 
 **σφυράς.** περιττώματα, ὑγρὸν καὶ σφυράδες Ζιη8.586ᵇ9. 'stercora globosa' S I 549.
 

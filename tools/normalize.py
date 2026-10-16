@@ -92,6 +92,13 @@ def join_sigla(t: str) -> str:
     return re.sub(r"(?<![\w\u0370-\u1fff])(f|[Α-Ωα-ω]{1,4}) (\d+(?:\.\d+[ᵃᵇ]|[ᵃᵇ]))", rep, t)
 
 
+def fix_zii(t: str) -> str:
+    """Ζμ1.608ᵃ33 → Ζιι1.608ᵃ33：HA 第 ι 卷 (Ζιι) 常被 OCR 讀成 Ζμ。
+    PA (Ζμ) 必帶卷號字母，Ζμ 直接接數字且頁碼落在 HA ι (605–638) 才改。"""
+    return re.sub(r"Ζμ(?=(\d+)\.(\d+)[ᵃᵇ])",
+                  lambda m: "Ζιι" if 605 <= int(m.group(2)) <= 638 else m.group(0), t)
+
+
 def normalize(t: str) -> str:
     t = t.replace("\u00a0", " ")
     # 部分頁面 OCR 把原書的粗體書名縮寫也標成粗體：**Ρα**8.1366 → Ρα8.1366
@@ -117,6 +124,7 @@ def normalize(t: str) -> str:
     t = re.sub(r"(\d)\s?[ΒB]\.\s*(\d)", r"\1B.\2", t)
     t = re.sub(r"(\d)sqq", r"\1 sqq", t)
     t = greek_sigla(t)                       # 空格合併後再做一次
+    t = fix_zii(t)
     # 現代動物學注釋 (Karsch, Aubert–Wimmer)，不是亞氏書名：改回拉丁字母以免被當出處
     t = re.sub(r"(?<![\w\u0370-\u1fff])Κα\s?Ζ([ιμγ])\s?", r"KaZ\1 ", t)
     t = re.sub(r"(?<![\w\u0370-\u1fff])ΑΖ([ιμγ])\s?", r"AZ\1 ", t)
@@ -219,8 +227,14 @@ def pages(spec):
 if __name__ == "__main__":
     force = "-f" in sys.argv
     args = [a for a in sys.argv[1:] if a != "-f"]
+    # 已對照圖檔校對的頁 (PROOFREADING.md 的「已校頁」)：即使 -f 也不覆蓋
+    done = set(re.findall(r"page-(\d{3})", (SRC.parent / "PROOFREADING.md").read_text(encoding="utf-8")
+                          .split("<!-- done -->")[1].split("<!-- /done -->")[0]))
     for p in pages(args[0]):
         dst = SRC / f"page-{p:03d}.md"
+        if f"{p:03d}" in done:
+            print("skip (proofread)", dst.name)
+            continue
         if dst.exists() and not force:
             print("skip", dst.name)
             continue

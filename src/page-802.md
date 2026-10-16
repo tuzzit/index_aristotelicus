@@ -28,7 +28,7 @@ suadere, praecipere, γραμματικόν τι ποιῆσαι ἄλλου ὑ
 
 **ὑποτιμᾶν.** κἂν ἐλεγχθῆς τι τὴν πόλιν ἀδικῶν, ἀποθνήσκειν ὑποτιμῶ ρ30.1437ᵃ17. — med, τοὺς φόρους πράσσεσθαι ἐκέλευσεν ὅσους αὐτοὶ ὑπετιμήσαντο οβ1353ᵃ12, 1347ᵃ22.
 
-**ὑποτριόρχης** (Lob Par 378). οἱ πλατύτεροι (πλατύπτεροι S Bsm Pik) ἱέρακες ὑποτριόρχαι καλοῦνται Ζμ36.620ᵃ19. (ypotriorcha Thom, subbuteo Gazae Scalig. sous-buse C II 778. cf S II 163. iq Buteo vulgaris Cr. 'grasmückenartige Falken' K 996, 5. in incert rel Su 101, 19. AZι 94, 37g.)
+**ὑποτριόρχης** (Lob Par 378). οἱ πλατύτεροι (πλατύπτεροι S Bsm Pik) ἱέρακες ὑποτριόρχαι καλοῦνται Ζιι36.620ᵃ19. (ypotriorcha Thom, subbuteo Gazae Scalig. sous-buse C II 778. cf S II 163. iq Buteo vulgaris Cr. 'grasmückenartige Falken' K 996, 5. in incert rel Su 101, 19. AZι 94, 37g.)
 
 **ὑποτυπῶν.** ὑποτυπῶσαι πρῶτον, syn περιγράφειν, opp ἀναγράφειν, προάγειν, διαρθροῦν Ηα7.1098ᵃ21. ὑποτυπωσάμενοι τὴν οὐσίαν πρῶτον τί ἐστι Μζ2.1028ᵇ31 (cf τύπῳ εἴρηται 3.1029ᵃ7).
 

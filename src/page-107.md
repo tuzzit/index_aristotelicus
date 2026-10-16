@@ -1,10 +1,10 @@
-Ζμ6.611ᵇ35. θ17.600ᵇ11. (Arum Dioscoridis Sibth.)
+Ζιι6.611ᵇ35. θ17.600ᵇ11. (Arum Dioscoridis Sibth.)
 
 **ἄροσις.** γῆς ἀρόσεις καὶ φυτεύσεις κ6.399ᵇ17.
 
 **ἀροτήρ** (Hom Marg) Ηζ7.1141ᵃ15. βοῦν ἀροτῆρα (Hes ε405) οα2.1343ᵃ21.
 
-**ἀροῦν.** ἀροῦντες καὶ σκάπτοντες Ζμ41.628ᵃ9.
+**ἀροῦν.** ἀροῦντες καὶ σκάπτοντες Ζιι41.628ᵃ9.
 
 **ἄρουρα.** ἐν ἀρούρᾳ καιομένης καλάμης μα4.341ᵇ26. — ὁμαλῦναι τὴν ἄρουραν ἀφαιροῦντα τὰς ὑπερέχοντας τῶν σταχύων Πγ13.1284ᵃ30.
 
@@ -16,7 +16,7 @@
 
 **ἁρπεδόνη.** ἑλιγμὸς ὥσπερ ἁρπεδόνῃ τὸ πάχος Ζιδ2.527ᵃ29.
 
-**ἅρπη,** avis. ἀπὸ τῆς θαλάττης ζῇ, τίσι πολεμεῖ Ζμ1.609ᵃ24, 610ᵃ11. 18.617ᵃ10. (le harpage, busard roux, de Buffon C, falco rufus K p 944 n 10, in incerto relinquit S II 8, fort larus parasiticus St, species lari, aut milvus ater sive parasiticus Su p 163 n 172, fort tringae vel lari species quaedam AZι I 77. 87 n 16.)
+**ἅρπη,** avis. ἀπὸ τῆς θαλάττης ζῇ, τίσι πολεμεῖ Ζιι1.609ᵃ24, 610ᵃ11. 18.617ᵃ10. (le harpage, busard roux, de Buffon C, falco rufus K p 944 n 10, in incerto relinquit S II 8, fort larus parasiticus St, species lari, aut milvus ater sive parasiticus Su p 163 n 172, fort tringae vel lari species quaedam AZι I 77. 87 n 16.)
 
 **Ἀρράβαιος** Πε10.1311ᵇ12.
 

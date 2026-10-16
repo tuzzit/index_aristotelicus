@@ -2,7 +2,7 @@
 
 **σχοινίον.** ὅταν παρὰ τῆς ἑτέρας τροχαλίας ἐπιβληθῇ τὸ σχοινίον μχ18.853ᵇ5. αἴξ σχοινίῳ δεδεμένη θ137.844ᵇ5.
 
-**σχοινίων** καὶ κόρυδος φίλοι Ζμ1.610ᵃ8. (skinium vers Thomae, Junco Gazae, schoenio vel Juncarius Scalig. Jonc C II 456. cf S II 20. fort Sylvia arundinacea K 948, 5. Cr. fort i q σχοινίλος St. in incert rel Su 161, 160. AZι I 109, 104.)
+**σχοινίων** καὶ κόρυδος φίλοι Ζιι1.610ᵃ8. (skinium vers Thomae, Junco Gazae, schoenio vel Juncarius Scalig. Jonc C II 456. cf S II 20. fort Sylvia arundinacea K 948, 5. Cr. fort i q σχοινίλος St. in incert rel Su 161, 160. AZι I 109, 104.)
 
 **σχοῖνος.** τόπος ἐν ᾧ πεφύκασι κάλαμος καὶ σχοῖνος μβ3.359ᵇ1. αἱ ῥοδιακαὶ χυτρῖδες γίνονται σμύρνης, σχοίνου ἄνθους κτλ συνεψηθέντων f105.1494ᵇ39, 42. (fort Juncus maritimus L Fraas 294.)
 

@@ -20,7 +20,7 @@
 
 **Πελλήνη.** οἱ ἐν Πελλήνῃ μαστροί f526.1564ᵇ42. — Πελληναίων πολιτεία f526.
 
-**πέλλος.** ἐρωδιῶν γένος, eius mores descr Ζμ1.609ᵇ22. 18.616ᵇ33. (pullus Thomae. fort Ardea cinerea St. Cr. K 947, 1. Su 150, 132. AZι I 92, 34ᵃ. cf C II 415. S II 15. Lnd 149.)
+**πέλλος.** ἐρωδιῶν γένος, eius mores descr Ζιι1.609ᵇ22. 18.616ᵇ33. (pullus Thomae. fort Ardea cinerea St. Cr. K 947, 1. Su 150, 132. AZι I 92, 34ᵃ. cf C II 415. S II 15. Lnd 149.)
 
 **Πελόπειος.** Πελοπείας (Πελοπίας Aᶜ Nck) χθονός (in versu Euripideo f519, Sophocli per errorem adscripto) Ργ9.1409ᵇ10.
 
