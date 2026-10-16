@@ -67,7 +67,7 @@ latexmk -xelatex struct.tex
 ## 全書 (2026-10 起)
 
 ```
-python3 tools/normalize.py -f 13-878            # 重新正規化 (003–012 為手校，勿 -f)
+# (勿再跑 normalize.py -f：src/ 已是主檔，見 PROOFREADING.md)
 python3 tools/md2struct.py 3-878                # → data/entries.json, struct/*.tex (約 10 秒)
 python3 tools/check_diogenes.py 6               # 逐一檢查 Diogenes 連結 (需伺服器；可中斷續跑)
 latexmk -xelatex struct.tex                     # 單檔全書，約 1 小時
