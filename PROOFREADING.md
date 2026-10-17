@@ -7,6 +7,7 @@
 1. **一批 = 連續數頁**。從「下一批」所列頁碼開始。
 2. **對照圖檔**：每頁 6 塊 `../split_out/page-NNN_{1L,2R}_{1,2,3}.png`
    （1L = 左欄、2R = 右欄，上中下三塊，相鄰兩塊有一兩行重疊）。
+   cloud session 沒有 `../split_out/`，改用 repo 內的 `scans/` (同檔名的壓縮版，只收部分頁；見 `CLAUDE.md`)。
    字形看不清時裁切放大（PIL crop + resize）再判讀。
 3. **直接改 `src/page-NNN.md`**。改完把頁碼加入下方「已校頁」，
    `tools/normalize.py` 會跳過這些頁 (即使 `-f`)，手校結果不會被覆蓋。

@@ -80,5 +80,6 @@ latexmk -xelatex struct.tex                     # 單檔全書，約 1 小時
 - 出處右上 `?`：原書縮寫與 Bekker 頁碼不合，書名依頁碼推定 (多為 OCR 誤讀)
 - 詞條索引已取消 (約 60 頁)：以 PDF 書籤 (字母 → 詞條) 與全文搜尋代替
 - `data/diogenes_problems.tsv`：連結檢查為 fail / near 的出處 (含詞條與 Bonitz 頁)，多半是 OCR 誤讀造成書名或頁碼錯，待對照圖檔
+- `tools/export_scans.py`：把 `../split_out/` 的圖塊壓縮複製到 `scans/`，供沒有本機檔案的 cloud session 對照 (見 `CLAUDE.md`)
 - `data/ocr_odd_chars.tsv`：底稿中字型沒有的怪字元 (OCR 雜訊，如 Vedic 符號、組合附加符號)，附上下文
 - 詞條中譯中，主 CJK 字型缺的罕用字自動改用 `\rare{}` (Noto Sans CJK TC)
