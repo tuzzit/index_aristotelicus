@@ -16,7 +16,7 @@
 
 **κήρυγμα** ἐποιήσατο, c inf ἀναφέρειν τὰ ἡμίσεα sim οβ1349ᵇ36, 1351ᵇ28. κήρυγμα Θησέως f346.1536ᵃ27.
 
-**κήρυλος** (κηρύλος Göttling Accentlehre 185. Jacobs ad Ael h an 269, 23) καὶ ἀλκυών περὶ τὴν θάλατταν Ζιθ3.593ᵇ12 (Carulus Gazae, Cerulus Scalig. mas halcyonis Wotton de diff an VII 143. C II 177. St. Tringa variabilis 869, 6. Cr. fort Alcedo rudis Su 133, 99. avis ignota S I 598. AZι I 95, 47).
+**κήρυλος** (κηρύλος Göttling Accentlehre 185. Jacobs ad Ael h an 269, 23) καὶ ἁλκυών περὶ τὴν θάλατταν Ζιθ3.593ᵇ12 (Carulus Gazae, Cerulus Scalig. mas halcyonis Wotton de diff an VII 143. C II 177. St. Tringa variabilis 869, 6. Cr. fort Alcedo rudis Su 133, 99. avis ignota S I 598. AZι I 95, 47).
 
 **κῆρυξ.** εἰπεῖν ὅθεν πρὸς τὸν πεμφθέντα κήρυκα, τοῦ κήρυκος ἀπαγγείλαντος Πγ13.1284ᵃ29, 31. — οἱ κήρυκες οὐκ ἄρχοντες Πδ15.1299ᵃ19. κῆρυξ μὴ Στεντόρειος Πη4.1326ᵇ6. τὰ παιδία προλαμβάνουσι τῶν κηρύκων τὸ τίνα αἱρεῖται κτλ Ργ8.1408ᵇ24. ἡ τρίτη (Ἀθήνησι) ἐκκλησία κηρύξει καὶ πρεσβείαις ἀξιοῖ χρηματίζειν f394.1543ᵇ19. — Κήρυκες. ἐπιμελητὰς τῶν μυστηρίων δύο ὁ δῆμος χειροτόνει, ἕνα ἐξ Εὐμολπιδῶν, ἕνα δ' ἐκ Κηρύκων f386.1542ᵇ3.
 
