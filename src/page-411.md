@@ -38,7 +38,7 @@
 
 Κ577, 8. AZγ24. Pecten maximus St. Cr. Pecten Jacobaeus AZι I178, 13. Mr 239. πυρροί P varius.)
 
-2. caruncula, syn ἐγκανθίδες. ἐὰν δ᾽ οἷον οἱ κτένες κρεῶδες ἔχωσι τὸ πρὸς τῷ μυκτῆρι Ζια9.491ᵇ25 Aub. cf S I 30. crepetem Thomae. Bsm e vers arab lat ἰκτῖνες. sed v κτείς vestigium illud membranae nictantis in angulo anteriore oculi latens signific cf Galen IV 796: ὧν δὲ οἱ κτένες οἷον κρεῶδες ἔχοντες πρὸς τῷ μυκτῆρι, πονηρίας.... ταῦτα μὲν ἐν τῷ α᾽ περὶ ζώων ἱστορίας Ἀρ. ἔγραψεν.
+2. caruncula, syn ἐγκανθίδες. ἐὰν δ᾽ οἷον οἱ κτένες κρεῶδες ἔχωσι τὸ πρὸς τῷ μυκτῆρι Ζια9.491ᵇ25 Aub. cf S I 30. crepetem Thomae. Bsm e vers arab lat ἰκτῖνες. sed v κτείς vestigium illud membranae nictantis in angulo anteriore oculi latens signific cf Galen IV 796: ὧν δὲ οἱ κτένες οἷον κρεῶδες ἔχοντες πρὸς τῷ μυκτῆρι, πονηρίας.... ταῦτα μὲν ἐν τῷ α᾽ περὶ ζῴων ἱστορίας Ἀρ. ἔγραψεν.
 
 **κτῆμα,** def ὄργανον πρακτικὸν καὶ χωριστόν Πα4.1254ᵃ16. 2.1253ᵇ31. τὸ κτῆμα ὥσπερ μέρος αὑτοῦ Ηε10.1134ᵇ10, 16. Πκ4.1254ᵃ9. οὐχ ἡ αὐτὴ ἀρετὴ κτήματος καὶ ἔργου Ηδ4.1122ᵇ15. κτήματα ἔμψυχα, ἄψυχα οα6.1345ᵃ28. κτήματα, syn κτήσεις Πβ1.1261ᵃ5, 8. — κοινωνεῖν κτημάτων Πβ1.1261ᵃ5. δημεύειν τὰ κτήματά τινος Πε5.1305ᵃ6.
 

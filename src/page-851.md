@@ -60,4 +60,4 @@
 
 **χολάς** τὸ κοινὸν ὑποχονδρίου καὶ λαγόνος Ζια13.493ᵃ21, cf S I 39. Da I 25.
 
-**χολή** (nusquam in Ar scriptis legitur num plur. αἱ χολαί Plat Tim 82E. Bsm probl ined 297, 1. i q χολῆς εἴδη Plat Tim 83C). — 1. fel (Philippson ὕλη 41. F 304, 7. S I 106. cystis fellea Alberto). περὶ χολῆς, διὰ τίν᾽ αἰτίαν τὰ μὲν ἔχει τὰ δ᾽ οὐκ ἔχει τῶν ζώων· τόπος οὗ τοῖς ἔχουσιν
+**χολή** (nusquam in Ar scriptis legitur num plur. αἱ χολαί Plat Tim 82E. Bsm probl ined 297, 1. i q χολῆς εἴδη Plat Tim 83C). — 1. fel (Philippson ὕλη 41. F 304, 7. S I 106. cystis fellea Alberto). περὶ χολῆς, διὰ τίν᾽ αἰτίαν τὰ μὲν ἔχει τὰ δ᾽ οὐκ ἔχει τῶν ζῴων· τόπος οὗ τοῖς ἔχουσιν
