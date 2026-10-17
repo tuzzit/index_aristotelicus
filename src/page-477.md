@@ -17,9 +17,7 @@
 
 **μυξώδης** γλισχρότης Ζιγ11.517ᵇ28. ε15.546ᵇ29. η4.585ᵃ24. cf πκγ40.935ᵇ38, ὑγρότης Ζιγ5.515ᵇ16. ε18.550ᵃ13. πν7.485ᵃ2. μυξώδεις ὑγρότητες Ζγγ11.761ᵇ33. ἐν ὅσοις συμφέρει μαλακὸν εἶναι καὶ μυξῶδες τὸ στερεόν· μαλακὴ καὶ μυξώδης ἡ τοῦ χόνδρου σύστασις Ζμβ9.655ᵃ30,36.
 
-**μύξων.** πότε κύει Ζιζ17.570ᵇ2. ε11.543ᵇ15 (σμύξων Bk, μύξων codd, C S Pik Aub). (smizon vers Thomae, mucones Gazae, morveux C II 517. S I 288, perhaps some kind of mallet Cr. K 648, 4, Rose Ar Ps 308. Mugil aura-
-
-tus Cuv XI 46. Mugil sp AZι I 130, 31.)
+**μύξων.** πότε κύει Ζιζ17.570ᵇ2. ε11.543ᵇ15 (σμύξων Bk, μύξων codd, C S Pik Aub). (smizon vers Thomae, mucones Gazae, morveux C II 517. S I 288, perhaps some kind of mallet Cr. K 648, 4, Rose Ar Ps 308. Mugil auratus Cuv XI 46. Mugil sp AZι I 130, 31.)
 
 **μυοθήρας.** ἡ γαλῆ μάχεται τοῖς ὄφεσι τοῖς μυοθήραις Ζιι6.612ᵇ3.
 

@@ -92,7 +92,7 @@
 
 **Ἀριστοτέλης.** p 98ᵇ60 erratum est in afferenda Bernaysii sententia; is enim l l perinde atque Heitz l l et Zeller II, 2, 771 illis psychologiae verbis Platonis scholas respici statuit. — p 104ᵇ7 *a*: Πολιτεῖαι possunt videri respici Ηκ10.1181ᵇ7, sed cf supra p 101ᵃ50.
 
-**ἄρκτος** p 105ᵇ55*a*: ἐγένετο ἐν Καυλωνίᳳ ἡ λευκὴ ἄρκτος f186.1511ᵃ28.
+**ἄρκτος** p 105ᵇ55*a*: ἐγένετο ἐν Καυλωνίᾳ ἡ λευκὴ ἄρκτος f186.1511ᵃ28.
 
 **ἄρνες** p 106ᵇ59 *a*: f241.1522ᵇ44.
 
