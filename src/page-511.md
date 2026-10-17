@@ -1,10 +1,10 @@
 similia Chalcidii (ad Timaeum 291), aequalitates partium Rufini (in Clementis recognit VIII 15), similaria Gazae, consimilia Scalig, tissus (Bichat anat générale), fere i q Gewebe, telae. τὰ ἀνομοιομερῆ, dissimilaria Gazae, disconsimilia Scalig, organes Bichat, organa cf S II 287, Philippson ὕλη 4. Prantl de hist ord 7. AZι I 36 adn. Lewes 285.)
 
-**ὁμοιοπάθεια** ἡμβ11.1211ᵃ1. φιλίαι ἐξ ὁμοιοπαθείας ἡμβ11.1210ᵇ23.
+**ὁμοιοπάθεια** ημβ11.1211ᵃ1. φιλίαι ἐξ ὁμοιοπαθείας ημβ11.1210ᵇ23.
 
 **ὁμοιοπαθεῖν** Σαρδαναπάλῳ Ηα3.1095ᵇ22.
 
-**ὁμοιοπαθής** τινι πλ1.953ᵃ26. ὁμοιοπαθεῖς, ὁμοιοπαθέστατοι ἡμῖν αὑτοῖς ἐσμέν ἡμβ11.1210ᵇ37, 1211ᵃ20.
+**ὁμοιοπαθής** τινι πλ1.953ᵃ26. ὁμοιοπαθεῖς, ὁμοιοπαθέστατοι ἡμῖν αὑτοῖς ἐσμέν ημβ11.1210ᵇ37, 1211ᵃ20.
 
 **ὁμοιόπτερα** καὶ ὁμοιότροπα Ζια1.487ᵇ28 (v l ὁμόπτερα ὁμότροπα).
 
