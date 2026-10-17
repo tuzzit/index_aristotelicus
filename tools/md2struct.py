@@ -347,6 +347,7 @@ def load_paragraphs(nums):
     for n in nums:
         page = n - 2
         txt = (SRC / f"page-{n:03d}.md").read_text(encoding="utf-8")
+        txt = re.sub(r"\s*<!--.*?-->", "", txt, flags=re.S)   # 校對註解 (如 <!-- Bz: … -->) 不進排版
         ps = [p.strip().replace("\n", " ") for p in re.split(r"\n\s*\n", txt) if p.strip()]
         for k, p in enumerate(ps):
             if p.startswith("# "):
