@@ -18,7 +18,7 @@ est particula in altero membro interrogationum disiunctivarum idque alterum memb
 
 **Ἡγήμων** ὁ Θάσιος ὁ τὰς παρῳδίας ποιήσας πρῶτος πο2.1448ᵃ12.
 
-**Ἡγήσιππος** (Ἀγησίπολις Bkᵃ) Ρβ23.1398ᵇ32.
+**Ἡγήσιππος** (Ἀγησίπολις Bk³) Ρβ23.1398ᵇ32.
 
 **ἤγουν** explicative φτα2.817ᵃ1, ᵇ15. 3.818ᵃ9. β8.827ᵇ20, 828ᵃ25.
 
