@@ -1,6 +1,6 @@
 **σπίζα** ᵇ19, 25, 26. vl σπίζαι, σπιζίαι Bk Ζ11 36.620ᵃ20. (pinson C II 648. S I 588, II 461. Fringilla caelebs K 474. Su 119, 64. Fringilla, sed species def non potest St. Cr. G 13. AZι I 108, 101 et 94ħ.)
 
-**σπιζίας** (vl σπηζίας, στιγξίας, σπίζαι). refertur inter τὸς γαμψώνυχας, σαρκοφάγους· ὅ τε φαβοτύπος καὶ ὁ σπιζίας, ἱέρακες ἄμφω, διαφέρουσι τὸ μέγεθος πολὺ ἀλλήλων· ἄλλοι δὲ πέρκοι καὶ σπιζίαι Ζιθ3.592ᵇ2. 136.620ᵃ20. (stinxias Thomae, fringillarius Gazae. S I 586, II 461. Falco nisus Cr. St. K 864, 4. Su 101, 20. AZι I 94, 37ħ.)
+**σπιζίας** (vl σπηζίας, στιγξίας, σπίζαι). refertur inter τοὺς γαμψώνυχας, σαρκοφάγους· ὅ τε φαβοτύπος καὶ ὁ σπιζίας, ἱέρακες ἄμφω, διαφέρουσι τὸ μέγεθος πολὺ ἀλλήλων· ἄλλοι δὲ πέρκοι καὶ σπιζίαι Ζιθ3.592ᵇ2. 136.620ᵃ20. (stinxias Thomae, fringillarius Gazae. S I 586, II 461. Falco nisus Cr. St. K 864, 4. Su 101, 20. AZι I 94, 37ħ.)
 
 **σπιζίτης.** αἰγιθαλῶν εἶδος, ὁ σπιζίτης μέγιστος, ἔστι γὰρ ὅσον σπίζα Ζιθ3.592ᵇ19. (spizantes Thomae cf S I 588. Parus maior St. K 865, 10. Su 115, 55. AZι I 84, 3ᵃ. Parus maior vel ater Cr.)
 
