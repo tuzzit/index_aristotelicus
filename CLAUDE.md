@@ -30,6 +30,7 @@ Bonitz《Index Aristotelicus》(1870) 的 OCR 轉寫校對，並轉成結構化�
 | `latexmk -xelatex struct.tex` | 可 (約 1 小時) | **不可** (缺 `myfonts`/`mylangs` 與字型)，不要嘗試 |
 | `check_diogenes.py` | 需 localhost:8888 | **不可** |
 | `lexcheck.py` | 需本機 Diogenes 詞形表 | **不可**；`data/lexcheck.tsv` 是既有結果，可直接讀 |
+| `build_tlg.py`、`quotecheck.py` (引文 vs TLG 比對) | 可 (`data/tlg/` 需先用 `build_tlg.py` 建立，約 10 分鐘) | **不可** (沒有 TLG 資料；`data/tlg/`、`data/quotecheck.tsv` 都不上傳) |
 | `normalize.py` | 需 `../pages_out/` | 不可 (也不該再用) |
 
 - 看圖：用 Read 讀 `scans/` 的 PNG；字形看不清時用 PIL 裁切放大 (`pip install pillow` 若缺)，放大圖存到暫存目錄，不要 commit。

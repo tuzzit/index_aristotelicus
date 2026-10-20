@@ -18,3 +18,7 @@ data/greek-forms.pkl
 __pycache__/
 .claude/
 _archive_main/body/
+
+# TLG 匯出全文：授權限制，不可上傳 (tools/build_tlg.py 產生)
+data/tlg/
+data/quotecheck.tsv
