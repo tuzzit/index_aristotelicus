@@ -1,6 +1,6 @@
 Πβ5.1263ᵇ7, non sequente altero membro Ηθ3.1156ᵃ17 Fritzsche, Zell. — τὲ γάρ apud Ar saepe ita usurpatur, ut particula τέ manifesto praeparativam vim habeat eamque sequatur καί, veluti Πα6.1255ᵃ28. 12.1259ᵇ1. β4.1262ᵇ7 al. sed aliquot locis (Κ8.9ᵇ35 Wz. Φα3.186ᵇ19. μβ8.366ᵇ3 codd HL. Ζγα21.729ᵇ9. β7.747ᵃ13. Ηθ13.1161ᵃ18. 16.1163ᵃ29. Πα8.1256ᵃ23. η14.1338ᵃ12) consopita particulae τέ vi praeparativa τε γάρ idem fere significare ac καὶ γάρ vel γάρ contendunt Fritzsche ad Ηθ13.1161ᵃ18, Klotz ad Devar p 752; plerisque locis, licet non sequatur enunciatio ab ipsa particula καί exorsa, servari tamen vim praeparativam particulae τέ demonstrat Eucken I 17 sqq; sed relinquuntur certe loci quidam, in quibus coniunctis particulis τε γάρ non aliam apparet vim inesse, quam simplici γάρ vel καὶ γάρ, veluti ψα2.405ᵃ2. Πη14.1333ᵃ1. ζ4.1318ᵇ32. Αγ9.75ᵇ41. Ζμγ1.661ᵇ28. cf Bz Zts f öst Gym 1867 p 672-682.
 
-**τέγγειν.** γενομένη τοιαύτη (ἡ σὰρξ) τέγγει τὰς ἱδρῶτας πβ32.869ᵇ25. — τέγγεσθαι, dist τήκεσθαι μδ9.385ᵇ23. — τεγκτόν, dist τηκτόν μδ9.385ᵇ13. περὶ τῶ τεγκτῶ μδ8.385ᵃ13. 9.385ᵇ13-26.
+**τέγγειν.** γενομένη τοιαύτη (ἡ σὰρξ) τέγγει τὰς ἱδρῶτας πβ32.869ᵇ25. — τέγγεσθαι, dist τήκεσθαι μδ9.385ᵇ23. — τεγκτόν, dist τηκτόν μδ9.385ᵇ13. περὶ τοῦ τεγκτοῦ μδ8.385ᵃ13. 9.385ᵇ13-26.
 
 **Τεγέα** πο24.1460ᵃ32. εἰς Τεγέαν (Simonid fr 165 Bgk) Ρα7.1365ᵃ27. ἐκ Τεγέης Ἀγαπήνωρ f596.1576ᵇ5. — Τεγεατῶν πολιτεία f549. 550. οἱ λακωνίζοντες τῶν Τεγεατῶν f550.1569ᵃ11, 15, 5.
 

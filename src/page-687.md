@@ -8,7 +8,7 @@
 
 **σκωρία** ὑφίσταται καὶ ἀποκαθαίρεται κάτω μδ6.383ᵇ1. ὅταν ἐκκαυθῇ τὸ ὑγρόν, ἀοσμότεραι αἱ σκωρίαι γίγνονται πάντων αι5.443ᵃ19.
 
-**σκώψ** (Bk Anecd gr III s h v) refertur inter τοὺς γαμψώνυχας τῶν νυκτερινῶν, ἐλάττων γλαυκός, dist et descr δύο σκῶπες· οἱ ἀεισκῶπες (v supra p11ᵇ1 et Lob Par 293. Path I 590 adn), οἱ ἕτεροι Ζιθ3.592ᵇ11, 14, 13. ι28.617ᵇ31 Aub. (scops Thomae, asio Gazae Scalig. le petit duc C II 288. cf S II 132, 496. Strix scops St. K 865, 3. Su 97. AZι I 107, 99. Strix scops et otus Cr. cf Lnd 36. hodie κλώσσος E 44 et 57.)
+**σκώψ** (Bk Anecd gr III s h v) refertur inter τοὺς γαμψώνυχας τῶν νυκτερινῶν, ἐλάττων γλαυκός, dist et descr δύο σκῶπες· οἱ ἀεισκῶπες (v supra p 11ᵇ1 et Lob Par 293. Path I 590 adn), οἱ ἕτεροι Ζιθ3.592ᵇ11, 14, 13. ι28.617ᵇ31 Aub. (scops Thomae, asio Gazae Scalig. le petit duc C II 288. cf S II 132, 496. Strix scops St. K 865, 3. Su 97. AZι I 107, 99. Strix scops et otus Cr. cf Lnd 36. hodie κλώσσος E 44 et 57.)
 
 **σμαρίλη** i q μαρίλη (v h v) θ41.833ᵃ25. πλη8.967ᵇ5 (Bsm, μαρίλης Bk. cf Lob Path I 129).
 
