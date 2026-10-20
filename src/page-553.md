@@ -16,7 +16,7 @@
 
 **ὄχνη.** ὄχναι (Hom η 115) κ6.401ᵃ7 (ὄγχνη vl et Bsm, cf Lob Techn 264). ὄχνη, coni μυρσίνη, μηλέα φτα4.819ᵇ22. 6.820ᵇ37. ὄχναι καρποφοροῦσι μᾶλλον ἐν νεότητι φτα7.821ᵇ20. (Pirus communis v silvestris. Fraas 73. C A Böttiger kl Schrift III 166. Heldreich Nutzpflanzen Griechenlands 64. Oberdieck Etym der Obstnamen 10.)
 
-**ὀχυρῶν.** πρόθυρα τείχεσι μεγάλοις ὠχύρωτο κ6.398ᵃ18.
+**ὀχυροῦν.** πρόθυρα τείχεσι μεγάλοις ὠχύρωτο κ6.398ᵃ18.
 
 **ὄψ** (Emp 371) i q ὄψις, ὄνομα ἀφῃρημένον πο21.1458ᵃ5.
 
