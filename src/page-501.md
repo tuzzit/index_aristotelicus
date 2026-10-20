@@ -12,7 +12,7 @@
 
 **Οἰναρέα** πόλις ἐν Τυρρηνίᾳ θ94.837ᵇ32.
 
-**οἰνάς.** γένος τι τῶν περιστεροειδῶν, μικρῷ μείζων τῆς περιστερᾶς, ἐλάττων φαβός Ζιε13.544ᵇ6 Aub. θ3.593ᵃ19, 20. διτοκεῖ Ζιζ1.558ᵇ23. refertur inter τὰ καρποφαγοῦντα καὶ ποοφαγοῦντα, τῷ φθινοπώρῳ καὶ φαίνεται μάλιστα καὶ ἁλίσκεται, πῶς ἁλίσκεται Ζιθ3.593ᵃ15, 18, 21 Aub. f271.1527ᵃ14, 17, 21. cf Rose Ar Ps 288. (vinago Gazae, oven Alberto cf S I 294, 594. rupilia Scalig. le pigeon fugard Belon de la nat des oiseaux VI 22. le pigeon sauvage Ray et Salerne hist des oiseaux 160, 163. le pigeon vineux C II 643. Columba migratoria St. Columba oenas Cr. G 45. AZι I 105c. Columba livia Su 135, 101. cf M 300.)
+**οἰνάς.** γένος τι τῶν περιστεροειδῶν, μικρῷ μείζων τῆς περιστερᾶς, ἐλάττων φαβός Ζιε13.544ᵇ6 Aub. θ3.593ᵃ19, 20. διτοκεῖ Ζιζ1.558ᵇ23. refertur inter τὰ καρποφαγοῦντα καὶ ποοφαγοῦντα, τῷ φθινοπώρου καὶ φαίνεται μάλιστα καὶ ἁλίσκεται, πῶς ἁλίσκεται Ζιθ3.593ᵃ15, 18, 21 Aub. f271.1527ᵃ14, 17, 21. cf Rose Ar Ps 288. (vinago Gazae, oven Alberto cf S I 294, 594. rupilia Scalig. le pigeon fugard Belon de la nat des oiseaux VI 22. le pigeon sauvage Ray et Salerne hist des oiseaux 160, 163. le pigeon vineux C II 643. Columba migratoria St. Columba oenas Cr. G 45. AZι I 105c. Columba livia Su 135, 101. cf M 300.)
 
 **Οἰνεύς** Ρβ23.1397ᵇ19 (Nauck fr tr fr adesp 56). ὁ ἐν τῷ Οἰνεῖ πρόλογος Ργ16.1417ᵃ15 (Eurip fr 562). Γόργη Οἰνέως θυγάτηρ f596.1576ᵃ24.
 
