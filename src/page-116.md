@@ -12,7 +12,7 @@
 
 **Ἀστεῖος.** ἐπὶ Ἀστείου ἄρχοντος μέγας κομήτης μα6.343ᵇ19 (cf ᵇ1-3).
 
-**ἀστερίας.** 1. avis. **a.** ὁ ἀστερίας καλούμενος, τῶν ἐρωδιῶν γένος, ἐπικαλούμενος ὄκνος, μυθολογεῖται γενέσθαι ἐκ δήλων Ζιι1.609ᵇ22. 18.617ᵃ5. (ardea stellaris St Cr K Su p 151 n 133 AZι I 92 n 34.) — **b.** γένος τῶν ἱεράκων Ζιι36.620ᵃ18. (falconum species St Cr K, incerta species AZι I 93 n 37d, astur palumbarius pullus Su p 101 n 15.) — 2. piscis. ὁ καλούμενος τῶν γαλεῶν ἀστερίας ἀποτίκτει δὶς τοῦ μηνός Ζιε10.543ᵃ17. ζ11.566ᵃ17. (le boutillat C, squalus asterias Cr, squalus stellaris K, in incerto relinquit AZι I 145 n 88.)
+**ἀστερίας.** 1. avis. *a.* ὁ ἀστερίας καλούμενος, τῶν ἐρωδιῶν γένος, ἐπικαλούμενος ὄκνος, μυθολογεῖται γενέσθαι ἐκ δήλων Ζιι1.609ᵇ22. 18.617ᵃ5. (ardea stellaris St Cr K Su p 151 n 133 AZι I 92 n 34.) — *b.* γένος τῶν ἱεράκων Ζιι36.620ᵃ18. (falconum species St Cr K, incerta species AZι I 93 n 37d, astur palumbarius pullus Su p 101 n 15.) — 2. piscis. ὁ καλούμενος τῶν γαλεῶν ἀστερίας ἀποτίκτει δὶς τοῦ μηνός Ζιε10.543ᵃ17. ζ11.566ᵃ17. (le boutillat C, squalus asterias Cr, squalus stellaris K, in incerto relinquit AZι I 145 n 88.)
 
 **Ἀστέριος** ὁ γίγας f594.1574ᵇ43.
 
