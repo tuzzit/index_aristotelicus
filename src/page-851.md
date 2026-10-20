@@ -32,7 +32,7 @@
 
 **χλωρεύς.** πολέμιοι τῶν ὀρνίθων ποικιλίδες καὶ κορυδῶνες καὶ πίπρα καὶ χλωρεύς, τρυγὼν καὶ χλωρεύς· ἀποκτείνει γὰρ τὴν τρυγόνα ὁ χλωρεύς Ζιι1.609ᵃ7, 25, 26. (khloreus Thomae, luteus et lutea Gazae, chloreus Scalig. C II 222. cf S II 9, 480, 490. fort Falco lanarius K 943, 7. Cr. i q χλωρίων Gesner s h v. in incert rel Su 161, 163. AZι I 112, 119.)
 
-**χλωρίς.** inter τὰ σκωληκοφάγα refertur ἡ καλουμένη χλωρίς διὰ τὸ τὰ κάτω ἔχειν ὠχρά, ἡλίκον κόρυδος, ᾠὰ δ᾽ ἢ ε΄, νεοττιά descr, κόκκυξ τίκτει ἐπὶ δένδρου ἐν τῇ τῆς χλωρίδος καλουμένης νεοττιᷓ Ζιθ3.592ᵇ17. ι13.615ᵇ32 Aub. 29.618ᵃ11 Anb. (khlaris Thomae, luteola Gazae, vireola, chloris Scalig. verdier C II 832. S II 101, 461, 481, 490. Loxia (Fringilla) chloris L K 865, 8. Su 120, 66. AZι I 112, 120. Motacilla fitis vel Loxia chloris St. Cr. cf Lnd 61. hodie φιόρι E 44, 20.)
+**χλωρίς.** inter τὰ σκωληκοφάγα refertur ἡ καλουμένη χλωρίς διὰ τὸ τὰ κάτω ἔχειν ὠχρά, ἡλίκον κόρυδος, ᾠὰ δ᾽ ἢ ε΄, νεοττιά descr, κόκκυξ τίκτει ἐπὶ δένδρου ἐν τῇ τῆς χλωρίδος καλουμένης νεοττιᾷ Ζιθ3.592ᵇ17. ι13.615ᵇ32 Aub. 29.618ᵃ11 Anb. (khlaris Thomae, luteola Gazae, vireola, chloris Scalig. verdier C II 832. S II 101, 461, 481, 490. Loxia (Fringilla) chloris L K 865, 8. Su 120, 66. AZι I 112, 120. Motacilla fitis vel Loxia chloris St. Cr. cf Lnd 61. hodie φιόρι E 44, 20.)
 
 **χλωρίων.** descr, πολέμιος κρὲξ χλωρίωνι (v l χλωριῶνι, χλωριόνι, χλωρειόνι), ὃν ἔνιοι μυθολογοῦσι γενέσθαι ἐκ πυρκαϊᾶς Ζιι22.617ᵃ28. 15.616ᵇ11 (v l χλωρός). 1.609ᵇ10. (khloris Thomae, vireo Gazae, floriotus Alberto, vireo, virido Scalig. chlorion C II 223. cf S II 123, 481, 490 sq. Oriolus galbula K 946, 6. St. Su 117, 61. AZι I 112, 121. fort i q χλωρεύς Cr. cf Lnd 82. hodie κιτρινοπούλι συκοφάγος E 51, 12.)
 
