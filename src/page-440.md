@@ -16,7 +16,7 @@
 
 **Lysias** resp οἷον ἐν τῷ ἐπιταφίῳ Ργ10.1411ᵃ31 (cf Lys 2, 60). primus profiteri solitus artem dicendi f131.1500ᵇ23.
 
-**Λυσιθίδης** (Λυσιθειδης Spgl e coni) ρ2.1422ᵇ22, cf Spgl p116.
+**Λυσιθίδης** (Λυσιθειδης Spgl e coni) ρ2.1422ᵇ22, cf Spgl p 116.
 
 **Λυσικλῆς**, pro exemplo positus, μαρτύρησόν μοι, ὦ Λυσικλῆς (Καλλίκλεις Spgl) ρ16.1432ᵃ4.
 

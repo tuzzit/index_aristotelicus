@@ -2,7 +2,7 @@
 
 **θριποφάγος** ὁ κέρβιος Ζιι17.616ᵇ29.
 
-**θρίττα.** refertur inter τὰ μόνιμα f285.1528ᵃ40. ὑ γίνεται ἐν τῷ εὐρίπῳ ὥτε σκάρος ὥτε θρίττα (v1 θρίσσα) Ζιι37.621ᵇ16. (fort Alausa vulgaris Cuv XX, 24. cf Lewysohn Zool des Talmud p256.)
+**θρίττα.** refertur inter τὰ μόνιμα f285.1528ᵃ40. ὑ γίνεται ἐν τῷ εὐρίπῳ ὥτε σκάρος ὥτε θρίττα (v1 θρίσσα) Ζιι37.621ᵇ16. (fort Alausa vulgaris Cuv XX, 24. cf Lewysohn Zool des Talmud p 256.)
 
 **θρομβώδης.** σπέρματα λεπτὰ καὶ μὴ θρομβώδη Ζιη1.582ᵃ31.
 
@@ -28,7 +28,7 @@
 
 **θύελλα**, def βίαιον πνεῦμα καὶ ἄφνω προσαλλόμενον κ4.395ᵃ6. πυρὸς θύελλα (Hom μ68) θ105.839ᵇ34.
 
-**Θυέστης** aptum tragoediae argumentum πο13.1453ᵃ11, 21. — tragoedia Carcini πο16.1454ᵇ23 (Nauck fr tr p619.)
+**Θυέστης** aptum tragoediae argumentum πο13.1453ᵃ11, 21. — tragoedia Carcini πο16.1454ᵇ23 (Nauck fr tr p 619.)
 
 **θυλακοειδὲς** τίκτει θυννίς Ζιε11.543ᵇ13.
 
