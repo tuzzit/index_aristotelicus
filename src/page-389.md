@@ -36,7 +36,7 @@
 
 **κιθαριστικὴ** πῶς ποιεῖται τὴν μίμησιν πο1.1447ᵃ15, 24.
 
-**κίθαρος.** (v l κιθαρίς, κιθαρές) ἔχει ἀποφυάδας πολλὰς ἄνωθεν περὶ τὴν κοιλίαν Ζιβ17.508ᵇ17. καρχαρόδους, μονήρης, φυκοφάγος, τὴν γλῶττανἀπολελυμένος, καρδίαν λευκὴν ἔχων καὶ πλατεῖαν f300.1529ᵇ25. (cythara Thomae, fidicula Gazae. C II 234. S I 115. Hydrocion Forskalii Cuv XXII 316. Pleuronectes macrolepidotus Bloch R. Pleuronectes rhombus St. Trigla lyra Cr. piscis ignotus KaZι 91, 25. AZι I 131, 32.)
+**κίθαρος.** (v l κιθαρίς, κιθαρές) ἔχει ἀποφυάδας πολλὰς ἄνωθεν περὶ τὴν κοιλίαν Ζιβ17.508ᵇ17. καρχαρόδους, μονήρης, φυκοφάγος, τὴν γλῶτταν ἀπολελυμένος, καρδίαν λευκὴν ἔχων καὶ πλατεῖαν f300.1529ᵇ25. (cythara Thomae, fidicula Gazae. C II 234. S I 115. Hydrocion Forskalii Cuv XXII 316. Pleuronectes macrolepidotus Bloch R. Pleuronectes rhombus St. Trigla lyra Cr. piscis ignotus KaZι 91, 25. AZι I 131, 32.)
 
 **κιθαρῳδικός.** ἡ ὑποδώριστι κιθαρῳδικωτάτη τῶν ἁρμονιῶν πιθ48.922ᵇ15.
 
