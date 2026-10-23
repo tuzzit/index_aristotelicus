@@ -48,7 +48,7 @@
 
 **πανήγυρις** Ἰσθμίων (Alcidam) Ργ3.1406ᵃ22. πανήγυρις τῆς Ἥρας θ96.838ᵃ17. — οἱ τὰς πανηγύρεις συνάγοντες (Isocr 4,1) Ργ9.1409ᵇ34. πανηγύρεις ἐνιαύσιοι κ6.400ᵇ21.
 
-**πανθήρ** (vl πάνθηρ Lob Par 211). τίκτει τυφλὰ ὥσπερ λύκος, τίκτει δὲ τὰ πλεῖστα τέτταρα Ζιζ35.580ᵃ25. (lupus canarius Gazae. panthera Scalig cf Salmas exercit Plin 1, 49ᵇ. Felis panthera St Cr. adive C II 60. Felis pardus K 801, 6. Felis uncia Wiegmann, Oken Isis 1831, 282 et 287. i q πάρδαλις Su 45, 14. cf AZi II 494.)
+**πανθήρ** (vl πάνθηρ Lob Par 211). τίκτει τυφλὰ ὥσπερ λύκος, τίκτει δὲ τὰ πλεῖστα τέτταρα Ζιζ35.580ᵃ25. (lupus canarius Gazae. panthera Scalig cf Salmas exercit Plin 1, 49ᵇ. Felis panthera St Cr. adive C II 60. Felis pardus K 801, 6. Felis uncia Wiegmann, Oken Isis 1831, 282 et 287. i q πάρδαλις Su 45, 14. cf AZι II 494.)
 
 **παννύχιοι** (Hom Κ1. Β1. cf Ὅμηρος p 506ᵃ61) πο25.1461ᵃ17.
 

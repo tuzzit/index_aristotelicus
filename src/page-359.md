@@ -34,7 +34,7 @@
 
 **καλαμώδης**. σηπία ἐκτίκτει περὶ τὰ καλαμώδη Ζιε18.550ᵇ7. ἐν τοῖς προλιμνάσι τῶν λιμνῶν πρὸς τὰ καλαμώδη Ζιζ14.568ᵃ21.
 
-**κάλαρις** (v l κόλαρις). τὸν κάλαριν οἱ γαμψώνυχες κατεσθίουσιν Ζιι1.609ᵃ27. (Scaliger monet calarim avem esse nocturnam, J Billerbeck motacillam albam L interpretatur, quae alibi κίλλυρος nominetur. Fringilla petronia Cr. dubitant S II 10. Su 161, 162. AZi I 94, 40.)
+**κάλαρις** (v l κόλαρις). τὸν κάλαριν οἱ γαμψώνυχες κατεσθίουσιν Ζιι1.609ᵃ27. (Scaliger monet calarim avem esse nocturnam, J Billerbeck motacillam albam L interpretatur, quae alibi κίλλυρος nominetur. Fringilla petronia Cr. dubitant S II 10. Su 161, 162. AZι I 94, 40.)
 
 **Καλαυρία**. τὴν Καλαυρίαν Εἰρήνην τὸ παλαιὸν ὠνόμαζον f555.1569ᵇ41.
 
