@@ -10,7 +10,7 @@ Bentl Bk) Πβ12.1274ᵇ6.
 
 **ψήν.** 1. οἱ καλούμενοι ψῆνες (v l ψῆρες cf Hermol Barb coroll in Diosc p 21, 4, 60), eorum generatio, vita descr Ζιε32.557ᵇ26. (indicium Thom, ficarius culex Gazae, psen Scalig. C II 705. S I 394. ova cynipum S Theophr. IV 375. Cynips psenes St. Cr. K 707, 3. Su 222, 33. AZι I 172, 54. cf Albert magn ed Jessen 93. Leunis Synops der Zool p 583. Heldreich 20. Lenz, Bot d Gr u Röm 422.) — 2. ἂν φύλλα ἢ ψῆνες ἢ φλοιὸς τοῦ ἄρρενος φοίνικος τοῖς φύλλοις τοῦ θήλεος συντεθείῃ φτα6.821ᵃ14.
 
-**ψῆττα.** τὸ τῶν ψηττῶν γένος, τὸ ὀχεῦον οὐκ ἔστιν, ᾠὰ φαίνεται ἔχοντα, refertur inter τοὺς χυτούς, ἅπαξ τίκτει, καθαμμίζει ἑαυτήν Ζιδ11.538ᵃ20. ε9.543ᵃ2. ι37.620ᵇ30. refertur inter τὰ σελάχη f277.1527ᵇ41. (pecten Thom, basseca Alberto, passer Gazae Scalig. plie C II 652. cf S I 258, II 171. hist lit pisc 30. Pleuronectes lingua, rhombus, maxima St. Cr. K. 618, 6. barbue Cuv et Val VII 240. cf M285. Lewysohn Zool des Talmud 274. AZι I 144, 84.) v ψηττοειδής.
+**ψῆττα.** τὸ τῶν ψηττῶν γένος, τὸ ὀχεῦον οὐκ ἔστιν, ᾠὰ φαίνεται ἔχοντα, refertur inter τοὺς χυτούς, ἅπαξ τίκτει, καθαμμίζει ἑαυτήν Ζιδ11.538ᵃ20. ε9.543ᵃ2. ι37.620ᵇ30. refertur inter τὰ σελάχη f277.1527ᵇ41. (pecten Thom, basseca Alberto, passer Gazae Scalig. plie C II 652. cf S I 258, II 171. hist lit pisc 30. Pleuronectes lingua, rhombus, maxima St. Cr. K. 618, 6. barbue Cuv et Val VII 240. cf M 285. Lewysohn Zool des Talmud 274. AZι I 144, 84.) v ψηττοειδής.
 
 **ψηττοειδής.** οἱ ψηττοειδεῖς τῶν ἰχθύων πῶς νέουσι Ζπ17.714ᵃ6. iq τὸ τῶν ψηττῶν γένος. v ψῆττα.
 

@@ -26,7 +26,7 @@
 
 **λαίμαργος** ὁ κεστρεύς Ζιθ2.591ᵇ1. λαίμαργον τὸ τῶν ἰχθύων γένος ἅπαν Ζμγ14.675ᵃ20.
 
-**λαιός.** descr Ζιι19.617ᵃ15. (cf C II 460. S II 120. Turdus torquatus K 981, 3. Cr. Petrocida cyanus G12. M302. Su 109, 39. fort Petrocida saxatilis AZι I 101, 69. Lnd 83.)
+**λαιός.** descr Ζιι19.617ᵃ15. (cf C II 460. S II 120. Turdus torquatus K 981, 3. Cr. Petrocida cyanus G12. M 302. Su 109, 39. fort Petrocida saxatilis AZι I 101, 69. Lnd 83.)
 
 **Λάϊος** (Soph Oed R) πο24.1460ᵃ30.
 

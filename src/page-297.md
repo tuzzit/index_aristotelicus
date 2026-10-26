@@ -18,7 +18,7 @@
 
 **εὐλέαντος** τροφή Ζμγ14.674ᵇ33.
 
-**εὐλή.** οἱ σκώληκες οἱ ἐν τῇ τοῦ ἐλάφου κεφαλῇ τὸ μέγεθος οὐκ ἐλάττους εἰσὶ τῶν μεγίστων εὐλῶν Ζιβ15.506ᵃ30. (vermes qui carnes putres edunt Gazae, Scalig, Constantino; M232; Su193d; Landois in Siebld Zeitschr XIV 34 adn; AZι I 164; plenius Oken Isis 1821 II 1124 sq.)
+**εὐλή.** οἱ σκώληκες οἱ ἐν τῇ τοῦ ἐλάφου κεφαλῇ τὸ μέγεθος οὐκ ἐλάττους εἰσὶ τῶν μεγίστων εὐλῶν Ζιβ15.506ᵃ30. (vermes qui carnes putres edunt Gazae, Scalig, Constantino; M 232; Su193d; Landois in Siebld Zeitschr XIV 34 adn; AZι I 164; plenius Oken Isis 1821 II 1124 sq.)
 
 **εὔλιμνα** χωρία Ζιθ19.601ᵇ22.
 
