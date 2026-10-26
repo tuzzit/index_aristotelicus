@@ -10,7 +10,7 @@
 
 **ζητητικός** πιδ15.910ᵃ30. τὸ ζητητικὸν ἔχουσι πάντες οἱ τοῦ Σωκράτους λόγοι Πβ6.1265ᵃ12.
 
-**ζιγνίς** (v l ζίγνης, ζιγνύς, δίγνυς, δειμνύς, zignis versio Thomae, dygnis Gazae, haldyz Alberto, cf Oken Isis 1829 p 623). ἡ καλουμένη χαλκὶς ὑπό τινων, ὑπὸ δ' ἐνίων ζιγνίς Ζιθ24.604ᵇ24. (in Sardinia et Italia hodie cicigna ab incolis vocatur S I 666, II 474. Lacerta chalcides Κ 915, 6. Su 176, 5. haec vel Ablepharus pannonicus vel Ablepharus Kitaibelii AZι I 116. cf E 83 B 69 tab XI, 4. Μ 308. Salmas exercit Plin 65.)
+**ζιγνίς** (v l ζίγνης, ζιγνύς, δίγνυς, δειμνύς, zignis versio Thomae, dygnis Gazae, haldyz Alberto, cf Oken Isis 1829 p 623). ἡ καλουμένη χαλκὶς ὑπό τινων, ὑπὸ δ' ἐνίων ζιγνίς Ζιθ24.604ᵇ24. (in Sardinia et Italia hodie cicigna ab incolis vocatur S I 666, II 474. Lacerta chalcides Κ 915, 6. Su 176, 5. haec vel Ablepharus pannonicus vel Ablepharus Kitaibelii AZι I 116. cf E 83 B 69 tab XI, 4. M 308. Salmas exercit Plin 65.)
 
 **ζοφερός.** τὴν ὄψιν φθείρει τὸ σφόδρα λαμπρὸν ἢ ζοφερόν ψγ2.426ᵇ2. νέφος ζοφερόν μγ4.375ᵃ19. χρῶμα ζοφερόν, ὃ καλοῦσιν ὄρφνιον χ2.792ᵃ27. θάλαττα διαφαίνεται ζοφερά, dist κυανῇ, πορφυρίζουσα θ130.843ᵃ25.
 
