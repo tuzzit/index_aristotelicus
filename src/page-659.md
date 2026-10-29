@@ -12,13 +12,13 @@
 
 **πυγαῖος**. τὸ πυγαῖον (τῶν κέπφων) μόνον θινὸς ὄζει Ζμ35. 620 **a**15.
 
-**πύγαργος**. 1. (v l ὁ τρύγγας), μέγιστος τῶν ἐλαττόνων (ὀρνίθων), ἔστιν ὅσον κίχλη, τὸ ὡραῖον κινεῖ Ζιθ3. 593 **b**5. (Tringa ochropus Κ 868, 10. cf S I 596, II 87, Cr. Totanus ochropus Su 147, 123. fort Motacilla alba AZι I 95, 48.) — 2. τῶν ἀετῶν γένος τι, ὁ καλούμενος πύγαργος, κατὰ τὰ πεδία καὶ τὰ ἄλση καὶ περὶ τὰς πόλεις γίνεται, πέτεται καὶ εἰς τὰ ὄρη καὶ εἰς τὴν ὕλην διὰ τὸ θάρσος, ἔνιοι καλοῦσιν νεβροφόνον αὐτόν, περὶ τὰ τέκνα χαλεπός Ζμ32. 618 **b**19. ζ6. 563 **b**6. (albicilla Gazae, hargus Alberto, hargor Vincent 16 cap 151. cf C II 709. S II 142, 16. G 18. Aquila fulva vel Haliaëtus albicilla Su 104, 26. Κ 733, 5. in incert rel AZι I 83, 1e. Circus cyaneus Cr, quia hodie πύγαργος i q Circus cyaneus cf Ε 46, 7.)
+**πύγαργος**. 1. (v l ὁ τρύγγας), μέγιστος τῶν ἐλαττόνων (ὀρνίθων), ἔστιν ὅσον κίχλη, τὸ ὡραῖον κινεῖ Ζιθ3. 593 **b**5. (Tringa ochropus K 868, 10. cf S I 596, II 87, Cr. Totanus ochropus Su 147, 123. fort Motacilla alba AZι I 95, 48.) — 2. τῶν ἀετῶν γένος τι, ὁ καλούμενος πύγαργος, κατὰ τὰ πεδία καὶ τὰ ἄλση καὶ περὶ τὰς πόλεις γίνεται, πέτεται καὶ εἰς τὰ ὄρη καὶ εἰς τὴν ὕλην διὰ τὸ θάρσος, ἔνιοι καλοῦσιν νεβροφόνον αὐτόν, περὶ τὰ τέκνα χαλεπός Ζμ32. 618 **b**19. ζ6. 563 **b**6. (albicilla Gazae, hargus Alberto, hargor Vincent 16 cap 151. cf C II 709. S II 142, 16. G 18. Aquila fulva vel Haliaëtus albicilla Su 104, 26. K 733, 5. in incert rel AZι I 83, 1e. Circus cyaneus Cr, quia hodie πύγαργος i q Circus cyaneus cf Ε 46, 7.)
 
 **πυγηδὸν** συνιόντα ζῷα Ζιε2. 539 **b**22. τὰς βίας νέμεσθαί φασι ὑποχωροῦντας πάλιν πυγηδόν (cf παλιμπυγηδόν p 559 **a**57) Ζμβ16. 659 **a**20.
 
 **Πυγμαίοις** ἐπιχειρεῖν λέγονται γέρανοι Ζιθ12. 597 **a**6. ὁμοίως γίνονται καὶ οἱ πυγμαῖοι (ὥσπερ τὰ μετάχοιρα καὶ οἱ γίννοι) Ζγβ8. 749 **a**4. cf πι12. 892 **a**12.
 
-**πυγολαμπίς** (Lob Prol 453). refertur inter τὰ ἔντομα, ταὐτὸ γένος καὶ πτερωτὸν καὶ ἄπτερον, οἷον αἱ καλούμεναι πυγολαμπίδες (v l πτερόποδες)· ἐκ τίνων ζῴων (v l πυρολαμπίδες, cf S I 350) Ζιδ1. 523 **b**21. ε19. 551 **b**24. (picopides versio Thomae, pikokpis C ex suo libro, cicindela Gazae et Scalig. cu-luisant C II 269. fort Lampyris sp Su 195, 4. Κ 557, 12. AZι I 162, 10. Lampyris noctiluca St. Cr. cf M 202.) v βόστρυχος 1.
+**πυγολαμπίς** (Lob Prol 453). refertur inter τὰ ἔντομα, ταὐτὸ γένος καὶ πτερωτὸν καὶ ἄπτερον, οἷον αἱ καλούμεναι πυγολαμπίδες (v l πτερόποδες)· ἐκ τίνων ζῴων (v l πυρολαμπίδες, cf S I 350) Ζιδ1. 523 **b**21. ε19. 551 **b**24. (picopides versio Thomae, pikokpis C ex suo libro, cicindela Gazae et Scalig. cu-luisant C II 269. fort Lampyris sp Su 195, 4. K 557, 12. AZι I 162, 10. Lampyris noctiluca St. Cr. cf M 202.) v βόστρυχος 1.
 
 **πυελώδης**. καρκίνοι λευκοὶ ἐν τοῖς μυσὶ τοῖς πυελώδεσιν ἐμφύονται Ζιε15. 547 **b**27.
 

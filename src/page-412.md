@@ -16,7 +16,7 @@
 
 **κυανοειδής**. τὸ μὴ διωρισμένον τῆς θαλάττης διὰ βάθος μέλαν καὶ κυανοειδὲς φαίνεται Ζγε1.779ᵇ33. cf χ3.794ᵃ12. μέλαν ἰσχυρῶς καὶ κυανοειδές χ5.796ᵃ18. τὸ τελευταῖον γίνονται οἱ βότρυες κυανοειδεῖς, ὅταν τὸ φοινικοῦν πολλῷ καὶ ἀκράτῳ τῷ μέλανι μιχθῇ χ5.795ᵇ29, 796ᵃ30.
 
-**κύανος**. 1. metallum. κύανου (κυανοῦ Bk, vl κυανοῦν) τὸ μέταλλον καὶ χρυσοκόλλης θ58.834ᵇ20. — 2. avis. descr Ζιι21.617ᵃ23-28. (coeruleus Gazae, chyco Alberti. πετροκόσσυφος Cretensium. merle-bleu, Turdus cyanus, Petrocichla cyana Belon VI 24. St. Cr. Κ 982, 1. AZι I 100, 64. cf Lnd 83. Belonio refragatur Mont-beillard oiseaux VI 36. Gesner avis de genere picorum, s v coeruleus. C II 573. Psaro smeroula S index et II 122. Certhia muraria, Tichodroma muraria G 13-17. Su 122, 73. cf Lnd 76.)
+**κύανος**. 1. metallum. κύανου (κυανοῦ Bk, vl κυανοῦν) τὸ μέταλλον καὶ χρυσοκόλλης θ58.834ᵇ20. — 2. avis. descr Ζιι21.617ᵃ23-28. (coeruleus Gazae, chyco Alberti. πετροκόσσυφος Cretensium. merle-bleu, Turdus cyanus, Petrocichla cyana Belon VI 24. St. Cr. K 982, 1. AZι I 100, 64. cf Lnd 83. Belonio refragatur Mont-beillard oiseaux VI 36. Gesner avis de genere picorum, s v coeruleus. C II 573. Psaro smeroula S index et II 122. Certhia muraria, Tichodroma muraria G 13-17. Su 122, 73. cf Lnd 76.)
 
 **κυανόχρων** τῆς θαλάττης ἔδαφος (Alcidam) Ργ3.1406ᵃ5.
 

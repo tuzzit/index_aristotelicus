@@ -24,7 +24,7 @@
 
 **ψαμμώδεις** τόποι φτβ2.823ᵃ1.
 
-**ψάρος** (cf Lob Par137, 20. Prol93, 22. ψᾶρος Aub II 496). ποικίλος, μέγεθος ἡλίκον κόττυφος, φωλεῖ Ζιι26.617ᵇ26. θ16.600ᵃ26. (sparus Thom, sturnus Gazae, Scalig. scarus Alberto, étourneau C II 328. S II 131. Sturnus vulgaris St. Cr. AZι I 113, 123. K895, 5. Su125, 82. hodie ψαρόι, μαυροπούλι cf Ε46, 26. Lnd73.)
+**ψάρος** (cf Lob Par137, 20. Prol93, 22. ψᾶρος Aub II 496). ποικίλος, μέγεθος ἡλίκον κόττυφος, φωλεῖ Ζιι26.617ᵇ26. θ16.600ᵃ26. (sparus Thom, sturnus Gazae, Scalig. scarus Alberto, étourneau C II 328. S II 131. Sturnus vulgaris St. Cr. AZι I 113, 123. K895, 5. Su125, 82. hodie ψαρόι, μαυροπούλι cf E 46, 26. Lnd73.)
 
 **ψαρός.** ἡ κίχλη τοῦ μὲν χειμῶνος ψαρὰ τοῦ δὲ θέρους ποικίλα τὰ περὶ τὸν αὐχένα ἴσχει Ζιι49B.632ᵇ19.
 

@@ -34,7 +34,7 @@
 
 **φρυνοειδής**. οἱ μικροὶ βάτραχοι οἱ φρυνοειδεῖς πα22.862ᵃ11.
 
-**φρυνολόγος**, φρυνολόχος C et S. refertur inter τὸ τῶν ἱεράκων γένος Ζιι36.620ᵃ21 Aub. ('Rostweihe oder Ringelweihe' Κ996, 8. 'perhaps the buzzard' Cr. in incert rel Su 102, 22. AZι I 94k.) cf λεῖος p 425ᵇ7, ἱέραξ p 340ᵇ41.
+**φρυνολόγος**, φρυνολόχος C et S. refertur inter τὸ τῶν ἱεράκων γένος Ζιι36.620ᵃ21 Aub. ('Rostweihe oder Ringelweihe' K 996, 8. 'perhaps the buzzard' Cr. in incert rel Su 102, 22. AZι I 94k.) cf λεῖος p 425ᵇ7, ἱέραξ p 340ᵇ41.
 
 **φρῦνος**. τριόρχης κατεσθίει αὐτούς· ὁ φρῦνος πῶς ἀπόλλυσι τὰς μελίττας Ζιι1.609ᵃ24. 40.626ᵃ31 Aub. i q φρύνη.
 
