@@ -77,6 +77,8 @@ latexmk -xelatex struct.tex                     # 單檔全書，約 1 小時
 - `src/glosses.tsv`：每個詞條的簡短中譯 (`lemma<TAB>中譯`)，先求有、未經細究；直接修改後重跑 md2struct + latexmk 即可
 - `data/diogenes_check.json`：連結檢查結果。`fail` 的連結不輸出，`alt` 改連到最近可用的行
 - `data/audit.tsv` (`tools/audit.py`)、`data/diagnostics.tsv`：待對照圖檔核對的疑點
+- `data/lint.tsv` (`tools/lint_src.py [頁碼]`)：src/ 格式檢查 (粗體/【】不成對、拉丁希臘字母混用、glosses.tsv 與詞條不同步)
+- 改 `md2struct.py`/`sigla.py` 後：`python3 -m unittest discover tests` (出處解析案例) 與 `python3 tools/parsediff.py` (與 HEAD 比較全書出處解析差異，約 10 秒)
 - 出處右上 `?`：原書縮寫與 Bekker 頁碼不合，書名依頁碼推定 (多為 OCR 誤讀)
 - 詞條索引已取消 (約 60 頁)：以 PDF 書籤 (字母 → 詞條) 與全文搜尋代替
 - `data/diogenes_problems.tsv`：連結檢查為 fail / near 的出處 (含詞條與 Bonitz 頁)，多半是 OCR 誤讀造成書名或頁碼錯，待對照圖檔

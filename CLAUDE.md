@@ -14,9 +14,10 @@ Bonitz《Index Aristotelicus》(1870) 的 OCR 轉寫校對，並轉成結構化�
 - 使用者說「執行一段」= 校對**下一批 5 頁** (從 `PROOFREADING.md`「下一批」開始)，結束時：
   1. 頁碼加入「已校頁」、「批次紀錄」加一列、更新「下一批」、新的系統性錯誤寫入表格
   2. 校對中發現會重複出現的 OCR 錯誤型態 → 同一批內在全書 `src/` 搜尋並修正 (只改有把握的；已校頁也要一併檢查)，寫進批次紀錄
-  3. `python3 tools/md2struct.py 3-878` 確認能解析 (約 10 秒)
+  3. `python3 tools/md2struct.py 3-878` 確認能解析 (約 10 秒)；`python3 tools/lint_src.py <起>-<迄>` 檢查該批格式 (`data/lint.tsv`)
   4. 一批一個 commit，訊息如 `校對 page-058～062；全書 …`
-- 改詞條 (粗體 lemma) 拼字時，同步改 `src/glosses.tsv` 第一欄。
+- 改詞條 (粗體 lemma) 拼字時，同步改 `src/glosses.tsv` 第一欄 (`tools/lint_src.py` 全書模式會列出不同步的 GLOSS)。
+- 改 `tools/md2struct.py` 或 `tools/sigla.py` 時：`python3 -m unittest discover tests` 須通過，並用 `python3 tools/parsediff.py` 檢視全書出處解析的變化。
 - `src/glosses.tsv` 的中譯是「先求有」的粗略版本，使用者會自己修；不要主動大改。
 
 ## 在 cloud session (無本機環境) 工作時
