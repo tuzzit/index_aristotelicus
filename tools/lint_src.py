@@ -3,6 +3,7 @@
 
   BOLD     段落中 ** 數目為奇數 (粗體沒關)
   BRACKET  段落中【】不成對
+  NOBREAK  粗體詞條前沒有空行 (會被併進上一詞條；頁內續行的副詞條請寫在同一行)
   COMMENT  <!-- --> 不成對，或不是 <!-- Bz: … --> 格式
   MIXED    拉丁字母緊貼希臘字母 (OCR 混用字形，如 ἔντερoν 的 o、AΖι 的 Ζ、1035ᵇ18Bz 漏空格)
   GRCAP    文獻縮寫用了希臘大寫 (cf Κ 571 → K)
@@ -49,7 +50,10 @@ def scan_page(n, rows):
             rows.append((f"{name}:{line}", "BOLD", par.strip()[:60]))
         if par.count("【") != par.count("】"):
             rows.append((f"{name}:{line}", "BRACKET", par.strip()[:60]))
-    for ln, l in enumerate(body.splitlines(), 1):
+    lines = body.splitlines()
+    for ln, l in enumerate(lines, 1):
+        if l.startswith("**") and ln > 1 and lines[ln - 2].strip() and not lines[ln - 2].startswith("#"):
+            rows.append((f"{name}:{ln}", "NOBREAK", l[:60]))
         for w in l.split():
             w = w.replace("**", "").strip("*")
             if MIXED.search(MIXED_OK.sub(" ", w)):
@@ -61,13 +65,15 @@ def scan_page(n, rows):
 
 
 def check_glosses(nums, rows):
-    lemmas = Counter(unicodedata.normalize("NFC", e["lemma"]) for e in M.build(nums) if e["t"] == "entry")
+    entries = [e for e in M.build(nums) if e["t"] == "entry"]
+    lemmas = Counter(unicodedata.normalize("NFC", e["lemma"]) for e in entries)
+    subs = {unicodedata.normalize("NFC", n["lemma"]) for e in entries for n in e["body"] if n["t"] == "sub"}
     keys, orphans = Counter(), []
     for k, line in enumerate((SRC / "glosses.tsv").read_text(encoding="utf-8").splitlines(), 1):
         if "\t" in line and not line.startswith("#"):
             key = unicodedata.normalize("NFC", line.split("\t", 1)[0].strip())
             keys[key] += 1
-            if key not in lemmas:
+            if key not in lemmas and key not in subs:          # 副詞條 (\sublemma) 也查中譯
                 orphans.append((k, key))
             elif keys[key] == 2:
                 rows.append((f"glosses.tsv:{k}", "GLOSS", "DUP " + key))
